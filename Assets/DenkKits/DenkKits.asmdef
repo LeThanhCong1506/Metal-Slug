@@ -1,0 +1,20 @@
+{
+    "name": "DenkKits",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:ad968d605628d06499b62cdc30f11cf8",
+        "GUID:0a46b0d263abefe43a3e75abab0b33c1",
+        "GUID:4ffe3249bc841464abc6ec7cdd53b4f4",
+        "GUID:5b35af79ebbe89647a157055d52c59d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

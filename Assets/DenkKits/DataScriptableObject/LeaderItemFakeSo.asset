@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d50652d73da461d921b69725e079d84, type: 3}
+  m_Name: LeaderItemFakeSo
+  m_EditorClassIdentifier: DenkKits:_GAME.Scripts.Popup:LeaderItemFakeSo
+  dataItems:
+  - id: 35
+    userName: Emily
+    score: 990
+  - id: 8
+    userName: Dana
+    score: 990
+  - id: 47
+    userName: Quinn
+    score: 980
+  - id: 33
+    userName: Cindy
+    score: 960
+  - id: 22
+    userName: Rachel
+    score: 900
+  - id: 37
+    userName: Grace
+    score: 880
+  - id: 45
+    userName: Olive
+    score: 870
+  - id: 12
+    userName: Hazel
+    score: 870
+  - id: 26
+    userName: Vanessa
+    score: 840
+  - id: 16
+    userName: Laura
+    score: 820
+  - id: 53
+    userName: Wendy
+    score: 810
+  - id: 50
+    userName: TinaB
+    score: 770
+  - id: 29
+    userName: Yuki
+    score: 770
+  - id: 18
+    userName: Nina
+    score: 760
+  - id: 39
+    userName: Isla
+    score: 760
+  - id: 6
+    userName: Bella
+    score: 720
+  - id: 42
+    userName: Leo
+    score: 720
+  - id: 24
+    userName: Tina
+    score: 700
+  - id: 49
+    userName: Steve
+    score: 680
+  - id: 20
+    userName: Paula
+    score: 640
+  - id: 40
+    userName: John
+    score: 620
+  - id: 30
+    userName: Zack
+    score: 610
+  - id: 10
+    userName: Fiona
+    score: 610
+  - id: 1
+    userName: Jack
+    score: 600
+  - id: 43
+    userName: Molly
+    score: 590
+  - id: 32
+    userName: Brian
+    score: 580
+  - id: 14
+    userName: Julia
+    score: 570
+  - id: 51
+    userName: Uma
+    score: 530
+  - id: 27
+    userName: William
+    score: 520
+  - id: 38
+    userName: Hank
+    score: 510
+  - id: 19
+    userName: Oscar
+    score: 510
+  - id: 34
+    userName: Derek
+    score: 460
+  - id: 5
+    userName: Alex
+    score: 450
+  - id: 13
+    userName: Ian
+    score: 430
+  - id: 52
+    userName: Vince
+    score: 430
+  - id: 23
+    userName: Sam
+    score: 430
+  - id: 46
+    userName: Pete
+    score: 400
+  - id: 7
+    userName: Charlie
+    score: 380
+  - id: 17
+    userName: Mason
+    score: 370
+  - id: 54
+    userName: Xavier
+    score: 340
+  - id: 36
+    userName: Frank
+    score: 340
+  - id: 21
+    userName: Quentin
+    score: 330
+  - id: 44
+    userName: Nate
+    score: 320
+  - id: 28
+    userName: Xena
+    score: 300
+  - id: 11
+    userName: George
+    score: 300
+  - id: 48
+    userName: Rose
+    score: 260
+  - id: 25
+    userName: Uri
+    score: 250
+  - id: 15
+    userName: Kevin
+    score: 200
+  - id: 31
+    userName: Amber
+    score: 180
+  - id: 41
+    userName: Kim
+    score: 150
+  - id: 9
+    userName: Ethan
+    score: 150
+  - id: 4
+    userName: Paraon
+    score: 100
+  - id: 3
+    userName: Esdion
+    score: 5
+  - id: 2
+    userName: Mikkus
+    score: 0
