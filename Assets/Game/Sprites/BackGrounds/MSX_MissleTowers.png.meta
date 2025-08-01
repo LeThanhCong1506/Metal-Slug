@@ -1,0 +1,4446 @@
+fileFormatVersion: 2
+guid: ba073d82422a96549a6029ad62a59718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 217178768701331047
+    second: MSX_MissleTowers_0
+  - first:
+      213: 7912614233346942232
+    second: MSX_MissleTowers_1
+  - first:
+      213: 4662022550273870050
+    second: MSX_MissleTowers_2
+  - first:
+      213: 3994865609281692516
+    second: MSX_MissleTowers_3
+  - first:
+      213: 7370767934291498525
+    second: MSX_MissleTowers_4
+  - first:
+      213: -6763639141193415429
+    second: MSX_MissleTowers_5
+  - first:
+      213: 2103113396897953049
+    second: MSX_MissleTowers_6
+  - first:
+      213: 1260307885796327621
+    second: MSX_MissleTowers_7
+  - first:
+      213: -1266458051456333113
+    second: MSX_MissleTowers_8
+  - first:
+      213: 4797937056269334581
+    second: MSX_MissleTowers_9
+  - first:
+      213: -7886445309535847674
+    second: MSX_MissleTowers_10
+  - first:
+      213: 255019168017243458
+    second: MSX_MissleTowers_11
+  - first:
+      213: 1030353231456318864
+    second: MSX_MissleTowers_12
+  - first:
+      213: -207005376726431843
+    second: MSX_MissleTowers_13
+  - first:
+      213: -8625224809169716983
+    second: MSX_MissleTowers_14
+  - first:
+      213: -4936663770853845402
+    second: MSX_MissleTowers_15
+  - first:
+      213: -3297067735353468476
+    second: MSX_MissleTowers_16
+  - first:
+      213: -7526629999208324220
+    second: MSX_MissleTowers_17
+  - first:
+      213: -3783183114576768859
+    second: MSX_MissleTowers_18
+  - first:
+      213: -855721190171740095
+    second: MSX_MissleTowers_19
+  - first:
+      213: -8987898039358954895
+    second: MSX_MissleTowers_20
+  - first:
+      213: -580900379316452194
+    second: MSX_MissleTowers_21
+  - first:
+      213: 1335969180613501739
+    second: MSX_MissleTowers_22
+  - first:
+      213: 1583239500021618692
+    second: MSX_MissleTowers_23
+  - first:
+      213: 4626610118950094006
+    second: MSX_MissleTowers_24
+  - first:
+      213: -2561714116213773782
+    second: MSX_MissleTowers_25
+  - first:
+      213: 2403837774071385896
+    second: MSX_MissleTowers_26
+  - first:
+      213: -4202153124232357999
+    second: MSX_MissleTowers_27
+  - first:
+      213: -388836342223698252
+    second: MSX_MissleTowers_28
+  - first:
+      213: -2395110083228996518
+    second: MSX_MissleTowers_29
+  - first:
+      213: -2585284180389990078
+    second: MSX_MissleTowers_30
+  - first:
+      213: 6318321579617118200
+    second: MSX_MissleTowers_31
+  - first:
+      213: 711579613430382024
+    second: MSX_MissleTowers_32
+  - first:
+      213: -2882512244140699083
+    second: MSX_MissleTowers_33
+  - first:
+      213: -4958472364619133499
+    second: MSX_MissleTowers_34
+  - first:
+      213: -1313219482144316983
+    second: MSX_MissleTowers_35
+  - first:
+      213: -6695416213619312348
+    second: MSX_MissleTowers_36
+  - first:
+      213: -4336750918984872791
+    second: MSX_MissleTowers_37
+  - first:
+      213: -2817983923650004282
+    second: MSX_MissleTowers_38
+  - first:
+      213: -8880211179219733067
+    second: MSX_MissleTowers_39
+  - first:
+      213: -4452996375417991504
+    second: MSX_MissleTowers_40
+  - first:
+      213: -1527266950560584445
+    second: MSX_MissleTowers_41
+  - first:
+      213: 2016084162786853904
+    second: MSX_MissleTowers_42
+  - first:
+      213: 5601164679420296459
+    second: MSX_MissleTowers_43
+  - first:
+      213: 4697131542267489504
+    second: MSX_MissleTowers_44
+  - first:
+      213: -4355580602125617140
+    second: MSX_MissleTowers_45
+  - first:
+      213: -8688533382540487439
+    second: MSX_MissleTowers_46
+  - first:
+      213: 2312763237470063880
+    second: MSX_MissleTowers_47
+  - first:
+      213: 4826572124747315241
+    second: MSX_MissleTowers_48
+  - first:
+      213: -2294620837208606678
+    second: MSX_MissleTowers_49
+  - first:
+      213: 784152115943162368
+    second: MSX_MissleTowers_50
+  - first:
+      213: 5481352771661999782
+    second: MSX_MissleTowers_51
+  - first:
+      213: 2756778702561764307
+    second: MSX_MissleTowers_52
+  - first:
+      213: 3079669152521816929
+    second: MSX_MissleTowers_53
+  - first:
+      213: -5601717170839152730
+    second: MSX_MissleTowers_54
+  - first:
+      213: 4515358540597581978
+    second: MSX_MissleTowers_55
+  - first:
+      213: 6999543704763581778
+    second: MSX_MissleTowers_56
+  - first:
+      213: -1553684209217590594
+    second: MSX_MissleTowers_57
+  - first:
+      213: 5114663163587213301
+    second: MSX_MissleTowers_58
+  - first:
+      213: -8400024790781031301
+    second: MSX_MissleTowers_59
+  - first:
+      213: 3370040814633249256
+    second: MSX_MissleTowers_60
+  - first:
+      213: -3155459290940591112
+    second: MSX_MissleTowers_61
+  - first:
+      213: -8760698685487775941
+    second: MSX_MissleTowers_62
+  - first:
+      213: 6346706714682810725
+    second: MSX_MissleTowers_63
+  - first:
+      213: 5508666219366446320
+    second: MSX_MissleTowers_64
+  - first:
+      213: 5585227630719211919
+    second: MSX_MissleTowers_65
+  - first:
+      213: -8504013101089486950
+    second: MSX_MissleTowers_66
+  - first:
+      213: -3793432281005775659
+    second: MSX_MissleTowers_67
+  - first:
+      213: 705653194576219893
+    second: MSX_MissleTowers_68
+  - first:
+      213: -3302384359744012918
+    second: MSX_MissleTowers_69
+  - first:
+      213: -8534017942703622537
+    second: MSX_MissleTowers_70
+  - first:
+      213: 6774695221909945478
+    second: MSX_MissleTowers_71
+  - first:
+      213: -5309502379052133534
+    second: MSX_MissleTowers_72
+  - first:
+      213: 5675209753113360261
+    second: MSX_MissleTowers_73
+  - first:
+      213: 8116026764124961382
+    second: MSX_MissleTowers_74
+  - first:
+      213: -2512405757808910756
+    second: MSX_MissleTowers_75
+  - first:
+      213: -3210782891833026255
+    second: MSX_MissleTowers_76
+  - first:
+      213: 8140915444505093603
+    second: MSX_MissleTowers_77
+  - first:
+      213: -1401797487769263822
+    second: MSX_MissleTowers_78
+  - first:
+      213: -1486922056580089253
+    second: MSX_MissleTowers_79
+  - first:
+      213: 552115689586235898
+    second: MSX_MissleTowers_80
+  - first:
+      213: -7488793266416702830
+    second: MSX_MissleTowers_81
+  - first:
+      213: -5695996606492541620
+    second: MSX_MissleTowers_82
+  - first:
+      213: -6838132203373549984
+    second: MSX_MissleTowers_83
+  - first:
+      213: -2185527422342650272
+    second: MSX_MissleTowers_84
+  - first:
+      213: 5119332444645356304
+    second: MSX_MissleTowers_85
+  - first:
+      213: 4729956891890952488
+    second: MSX_MissleTowers_86
+  - first:
+      213: -2145549934676959534
+    second: MSX_MissleTowers_87
+  - first:
+      213: 1066019389510699610
+    second: MSX_MissleTowers_88
+  - first:
+      213: 7026961088254926984
+    second: MSX_MissleTowers_89
+  - first:
+      213: -5269832702159671432
+    second: MSX_MissleTowers_90
+  - first:
+      213: 8701250187507738117
+    second: MSX_MissleTowers_91
+  - first:
+      213: -529901191929786251
+    second: MSX_MissleTowers_92
+  - first:
+      213: -6623854677509012568
+    second: MSX_MissleTowers_93
+  - first:
+      213: 4796132696224214481
+    second: MSX_MissleTowers_94
+  - first:
+      213: 5203251769731769292
+    second: MSX_MissleTowers_95
+  - first:
+      213: -1908689588215723052
+    second: MSX_MissleTowers_96
+  - first:
+      213: -9134808281017366816
+    second: MSX_MissleTowers_97
+  - first:
+      213: 5549365329452073463
+    second: MSX_MissleTowers_98
+  - first:
+      213: 7848477757302364757
+    second: MSX_MissleTowers_99
+  - first:
+      213: 2614800402938859649
+    second: MSX_MissleTowers_100
+  - first:
+      213: -5870723722411429546
+    second: MSX_MissleTowers_101
+  - first:
+      213: -4015714917158986861
+    second: MSX_MissleTowers_102
+  - first:
+      213: -8175080093731770658
+    second: MSX_MissleTowers_103
+  - first:
+      213: 5664036922147927738
+    second: MSX_MissleTowers_104
+  - first:
+      213: 6453331533228527939
+    second: MSX_MissleTowers_105
+  - first:
+      213: 4424105373758069980
+    second: MSX_MissleTowers_106
+  - first:
+      213: -3882101569962764984
+    second: MSX_MissleTowers_107
+  - first:
+      213: 1598214021852474416
+    second: MSX_MissleTowers_108
+  - first:
+      213: 4999683337902490387
+    second: MSX_MissleTowers_109
+  - first:
+      213: 3755738398554954809
+    second: MSX_MissleTowers_110
+  - first:
+      213: 4072772253123313622
+    second: MSX_MissleTowers_111
+  - first:
+      213: 6822919438737351590
+    second: MSX_MissleTowers_112
+  - first:
+      213: -3030914152863124792
+    second: MSX_MissleTowers_113
+  - first:
+      213: -7656682705879581125
+    second: MSX_MissleTowers_114
+  - first:
+      213: 4861842302015972981
+    second: MSX_MissleTowers_115
+  - first:
+      213: -9162880780080470185
+    second: MSX_MissleTowers_116
+  - first:
+      213: -2646949896861300939
+    second: MSX_MissleTowers_117
+  - first:
+      213: 1650308383361527222
+    second: MSX_MissleTowers_118
+  - first:
+      213: -8909729090253856182
+    second: MSX_MissleTowers_119
+  - first:
+      213: 4580862689579762755
+    second: MSX_MissleTowers_120
+  - first:
+      213: 1643111547725397070
+    second: MSX_MissleTowers_121
+  - first:
+      213: -383077673189981602
+    second: MSX_MissleTowers_122
+  - first:
+      213: 122919367478162694
+    second: MSX_MissleTowers_123
+  - first:
+      213: -5453087082869299816
+    second: MSX_MissleTowers_124
+  - first:
+      213: 3348161936950405602
+    second: MSX_MissleTowers_125
+  - first:
+      213: -1948244451279031166
+    second: MSX_MissleTowers_126
+  - first:
+      213: 2666998264696125172
+    second: MSX_MissleTowers_127
+  - first:
+      213: -8010175903662625019
+    second: MSX_MissleTowers_128
+  - first:
+      213: -8145573153001710721
+    second: MSX_MissleTowers_129
+  - first:
+      213: 7728263016294192507
+    second: MSX_MissleTowers_130
+  - first:
+      213: -8532595589923928077
+    second: MSX_MissleTowers_131
+  - first:
+      213: -2413127853721432722
+    second: MSX_MissleTowers_132
+  - first:
+      213: -8150902857762165816
+    second: MSX_MissleTowers_133
+  - first:
+      213: -3677210717867522775
+    second: MSX_MissleTowers_134
+  - first:
+      213: 3807460573242406998
+    second: MSX_MissleTowers_135
+  - first:
+      213: 2161140098120883368
+    second: MSX_MissleTowers_136
+  - first:
+      213: -6973497581420280763
+    second: MSX_MissleTowers_137
+  - first:
+      213: 7258011809939688521
+    second: MSX_MissleTowers_138
+  - first:
+      213: 4655356237562135379
+    second: MSX_MissleTowers_139
+  - first:
+      213: 8693519728778634552
+    second: MSX_MissleTowers_140
+  - first:
+      213: -3060204977746655544
+    second: MSX_MissleTowers_141
+  - first:
+      213: 4100784439970126291
+    second: MSX_MissleTowers_142
+  - first:
+      213: -1101770179731579696
+    second: MSX_MissleTowers_143
+  - first:
+      213: 7106927329269028985
+    second: MSX_MissleTowers_144
+  - first:
+      213: -2881888346489026733
+    second: MSX_MissleTowers_145
+  - first:
+      213: 8224952015816932702
+    second: MSX_MissleTowers_146
+  - first:
+      213: 8680333439098001281
+    second: MSX_MissleTowers_147
+  - first:
+      213: -5844775115009730660
+    second: MSX_MissleTowers_148
+  - first:
+      213: 5150075950122140587
+    second: MSX_MissleTowers_149
+  - first:
+      213: -2667657873075665015
+    second: MSX_MissleTowers_150
+  - first:
+      213: -996220005753272359
+    second: MSX_MissleTowers_151
+  - first:
+      213: -8452111963551005924
+    second: MSX_MissleTowers_152
+  - first:
+      213: -820021382150350156
+    second: MSX_MissleTowers_153
+  - first:
+      213: -686851855727045016
+    second: MSX_MissleTowers_154
+  - first:
+      213: 5552735009491643864
+    second: MSX_MissleTowers_155
+  - first:
+      213: 4189574903511731813
+    second: MSX_MissleTowers_156
+  - first:
+      213: -688797350009983221
+    second: MSX_MissleTowers_157
+  - first:
+      213: -8220388218109239957
+    second: MSX_MissleTowers_158
+  - first:
+      213: -5397126675547682418
+    second: MSX_MissleTowers_159
+  - first:
+      213: -7085002165119281709
+    second: MSX_MissleTowers_160
+  - first:
+      213: -7921017399560050549
+    second: MSX_MissleTowers_161
+  - first:
+      213: -926726351438037392
+    second: MSX_MissleTowers_162
+  - first:
+      213: -4411595647262710713
+    second: MSX_MissleTowers_163
+  - first:
+      213: 6128084785199610950
+    second: MSX_MissleTowers_164
+  - first:
+      213: -670808757593783715
+    second: MSX_MissleTowers_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MSX_MissleTowers_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766133180f2930300800000000000000
+      internalID: 217178768701331047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815285fe8b04fcd60800000000000000
+      internalID: 7912614233346942232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84feb1fc4d2b040800000000000000
+      internalID: 4662022550273870050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e8ae1b1d907730800000000000000
+      internalID: 3994865609281692516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d84d526a3a4660800000000000000
+      internalID: 7370767934291498525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40d30590ab222a0800000000000000
+      internalID: -6763639141193415429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1861
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b770ed72cf2d10800000000000000
+      internalID: 2103113396897953049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0838048538d7110800000000000000
+      internalID: 1260307885796327621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1571
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca0308bc13ac6ee0800000000000000
+      internalID: -1266458051456333113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538fd950552b59240800000000000000
+      internalID: 4797937056269334581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1571
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bf19076c7bd8290800000000000000
+      internalID: -7886445309535847674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d559805920a8300800000000000000
+      internalID: 255019168017243458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1571
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09531221ecc8c4e00800000000000000
+      internalID: 1030353231456318864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9700a5e4b1902df0800000000000000
+      internalID: -207005376726431843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1571
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9097d850cbb0d4880800000000000000
+      internalID: -8625224809169716983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66657bab4727d7bb0800000000000000
+      internalID: -4936663770853845402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1571
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9dad10d567e32d0800000000000000
+      internalID: -3297067735353468476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483a36db4e90c8790800000000000000
+      internalID: -7526629999208324220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_18
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1571
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0556f500f6f7bc0800000000000000
+      internalID: -3783183114576768859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1708
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f9018c1edf14f0800000000000000
+      internalID: -855721190171740095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1571
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17264966a52944380800000000000000
+      internalID: -8987898039358954895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9404f8ce2a30f7f0800000000000000
+      internalID: -580900379316452194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23665934e05a8210800000000000000
+      internalID: 1335969180613501739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d729dfebc8f510800000000000000
+      internalID: 1583239500021618692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b48f3ee365053040800000000000000
+      internalID: 4626610118950094006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a69f67596f27cd0800000000000000
+      internalID: -2561714116213773782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc03d28b52c5120800000000000000
+      internalID: 2403837774071385896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197155a5ff3fea5c0800000000000000
+      internalID: -4202153124232357999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68ef928639a9af0800000000000000
+      internalID: -388836342223698252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ced23b11cd2ced0800000000000000
+      internalID: -2395110083228996518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241fa604cb93f1cd0800000000000000
+      internalID: -2585284180389990078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f763c130003fa750800000000000000
+      internalID: 6318321579617118200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd7de763e900e900800000000000000
+      internalID: 711579613430382024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1283
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532974bd2624ff7d0800000000000000
+      internalID: -2882512244140699083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_34
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1420
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd094ec7a7ff2bb0800000000000000
+      internalID: -4958472364619133499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1146
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16aa6b6d186cde0800000000000000
+      internalID: -1313219482144316983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1146
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42974d37d6a1513a0800000000000000
+      internalID: -6695416213619312348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1146
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acce8a2404c0d3c0800000000000000
+      internalID: -4336750918984872791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1146
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca74104d8284e8d0800000000000000
+      internalID: -2817983923650004282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_39
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1146
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b72c5bf623c480800000000000000
+      internalID: -8880211179219733067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_40
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1146
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0becb19b367c332c0800000000000000
+      internalID: -4452996375417991504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_41
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1146
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d64aedcce0ecae0800000000000000
+      internalID: -1527266950560584445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01483384dd19afb10800000000000000
+      internalID: 2016084162786853904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dbf4589955bbd40800000000000000
+      internalID: 5601164679420296459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece22050409f2140800000000000000
+      internalID: 4697131542267489504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0878bbe48edd83c0800000000000000
+      internalID: -4355580602125617140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f41d822ce02c6780800000000000000
+      internalID: -8688533382540487439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d4cf239e5981020800000000000000
+      internalID: 2312763237470063880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928bd5276cd6bf240800000000000000
+      internalID: 4826572124747315241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b8f7818ed720e0800000000000000
+      internalID: -2294620837208606678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002c9a0e13ed1ea00800000000000000
+      internalID: 784152115943162368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae248bed4da11c40800000000000000
+      internalID: 5481352771661999782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_52
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36e8abf9b024620800000000000000
+      internalID: 2756778702561764307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8ac507ce2dba20800000000000000
+      internalID: 3079669152521816929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_54
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 858
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a71deb89e3b242b0800000000000000
+      internalID: -5601717170839152730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_55
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 995
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9858d55ba6c9ae30800000000000000
+      internalID: 4515358540597581978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 721
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25541401aef532160800000000000000
+      internalID: 6999543704763581778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 721
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa3788174307ae0800000000000000
+      internalID: -1553684209217590594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 721
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f734637c0feaf640800000000000000
+      internalID: 5114663163587213301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 721
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c850145fd1d6b80800000000000000
+      internalID: -8400024790781031301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_60
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 721
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e968c2044ac4ce20800000000000000
+      internalID: 3370040814633249256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_61
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 721
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b7444e7e8534d0800000000000000
+      internalID: -3155459290940591112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_62
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 721
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff44336febb6680800000000000000
+      internalID: -8760698685487775941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 679
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56161467128041850800000000000000
+      internalID: 6346706714682810725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 678
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4f7878db6b27c40800000000000000
+      internalID: 5508666219366446320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 669
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8917b630f6b28d40800000000000000
+      internalID: 5585227630719211919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 669
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970b48042dabf980800000000000000
+      internalID: -8504013101089486950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 669
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a62b50750b5bc0800000000000000
+      internalID: -3793432281005775659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 669
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec55d77dbfac900800000000000000
+      internalID: 705653194576219893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 669
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8df6adebe29b22d0800000000000000
+      internalID: -3302384359744012918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 631
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776375275e3119980800000000000000
+      internalID: -8534017942703622537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 669
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7a73196d840e50800000000000000
+      internalID: 6774695221909945478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 631
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263918a97bbd056b0800000000000000
+      internalID: -5309502379052133534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 669
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5877720b33562ce40800000000000000
+      internalID: 5675209753113360261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 631
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a3b37675be1a070800000000000000
+      internalID: 8116026764124961382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_75
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 631
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e572a4644222dd0800000000000000
+      internalID: -2512405757808910756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 631
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1391469a8f10173d0800000000000000
+      internalID: -3210782891833026255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 631
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5a730e6775af070800000000000000
+      internalID: 8140915444505093603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_78
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 631
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316a76ac90db8ce0800000000000000
+      internalID: -1401797487769263822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_79
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 631
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab9d084446d5be0800000000000000
+      internalID: -1486922056580089253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 631
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af915b06b4289a700800000000000000
+      internalID: 552115689586235898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 593
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a25e69336721890800000000000000
+      internalID: -7488793266416702830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 593
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d7e2cd341c3f0b0800000000000000
+      internalID: -5695996606492541620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_83
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 593
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a2c2bdf21a11a0800000000000000
+      internalID: -6838132203373549984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_84
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 593
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066246883627ba1e0800000000000000
+      internalID: -2185527422342650272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_85
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 540
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f73a2cb58b0740800000000000000
+      internalID: 5119332444645356304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 537
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82922189bbe24a140800000000000000
+      internalID: 4729956891890952488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 535
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de97b7b3b97932e0800000000000000
+      internalID: -2145549934676959534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 534
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ac67b9cf24bce00800000000000000
+      internalID: 1066019389510699610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_89
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 534
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806deb11e7c48160800000000000000
+      internalID: 7026961088254926984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_90
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 533
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2902041bcdd6b0800000000000000
+      internalID: -5269832702159671432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 533
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062330c1fc01c870800000000000000
+      internalID: 8701250187507738117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_92
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 533
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57018f86ca965a8f0800000000000000
+      internalID: -529901191929786251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_93
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 534
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a30447f3475314a0800000000000000
+      internalID: -6623854677509012568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_94
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 534
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda416b6494f8240800000000000000
+      internalID: 4796132696224214481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 488
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e8c3aae9a53840800000000000000
+      internalID: 5203251769731769292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4ae3aee8f285e0800000000000000
+      internalID: -1908689588215723052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 490
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c9a64444aa3180800000000000000
+      internalID: -9134808281017366816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 491
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f10cd68d5e430d40800000000000000
+      internalID: 5549365329452073463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_99
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 493
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55adf8fefe46bec60800000000000000
+      internalID: 7848477757302364757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_100
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 494
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18018b7dc13a94420800000000000000
+      internalID: 2614800402938859649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 496
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651353ff0eff68ea0800000000000000
+      internalID: -5870723722411429546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_102
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 497
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b508b1f805548c0800000000000000
+      internalID: -4015714917158986861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_103
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 498
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede20cad7f74c8e80800000000000000
+      internalID: -8175080093731770658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_104
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 498
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f2534293ba9e40800000000000000
+      internalID: 5664036922147927738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d9e796d6de8950800000000000000
+      internalID: 6453331533228527939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 409
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1fb3c564956d30800000000000000
+      internalID: 4424105373758069980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 451
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845126cb031002ac0800000000000000
+      internalID: -3882101569962764984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_108
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 452
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ca0976f2ffd2610800000000000000
+      internalID: 1598214021852474416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_109
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 452
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130e11a181726540800000000000000
+      internalID: 4999683337902490387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_110
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 452
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c992bbc201f1430800000000000000
+      internalID: 3755738398554954809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_111
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 452
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df7b7629c4658830800000000000000
+      internalID: 4072772253123313622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_112
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 452
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a32c058411efae50800000000000000
+      internalID: 6822919438737351590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_113
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 460
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2b3ede2a700f5d0800000000000000
+      internalID: -3030914152863124792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_114
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 451
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ebb2655affdb590800000000000000
+      internalID: -7656682705879581125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_115
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 460
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57621a580dbb87340800000000000000
+      internalID: 4861842302015972981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_116
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 451
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ac004a78e6d080800000000000000
+      internalID: -9162880780080470185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537435bc715244bd0800000000000000
+      internalID: -2646949896861300939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 406
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdec102bb217e610800000000000000
+      internalID: 1650308383361527222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_119
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 407
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42647229984a5480800000000000000
+      internalID: -8909729090253856182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 323
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3440e31885e729f30800000000000000
+      internalID: 4580862689579762755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 265
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cb3804f318dc610800000000000000
+      internalID: 1643111547725397070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_122
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c028c2e80faaf0800000000000000
+      internalID: -383077673189981602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_123
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 265
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053d827382b4b100800000000000000
+      internalID: 122919367478162694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_124
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 265
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ed48903eb254b0800000000000000
+      internalID: -5453087082869299816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_125
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a966da8f077e20800000000000000
+      internalID: 3348161936950405602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 265
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28433e96ef176f4e0800000000000000
+      internalID: -1948244451279031166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_127
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 265
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6bbc79ac4130520800000000000000
+      internalID: 2666998264696125172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_128
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 323
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fabc1947326d090800000000000000
+      internalID: -8010175903662625019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_129
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 265
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bdf5bdf5c15fe80800000000000000
+      internalID: -8145573153001710721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_130
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 265
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751109644e404b60800000000000000
+      internalID: 7728263016294192507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_131
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 323
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70582c481269980800000000000000
+      internalID: -8532595589923928077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_132
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 323
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d45599009d28ed0800000000000000
+      internalID: -2413127853721432722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_133
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 265
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbae54490d22ee80800000000000000
+      internalID: -8150902857762165816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_134
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 265
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254f35b55ce7fcc0800000000000000
+      internalID: -3677210717867522775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_135
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 323
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583b64f731d6d430800000000000000
+      internalID: 3807460573242406998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_136
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 323
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac19521879edfd10800000000000000
+      internalID: 2161140098120883368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_137
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 265
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544066995e8293f90800000000000000
+      internalID: -6973497581420280763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_138
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 265
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8b0b5943a9b460800000000000000
+      internalID: 7258011809939688521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_139
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 323
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3534aca35d52b9040800000000000000
+      internalID: 4655356237562135379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_140
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 323
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83563b1122695a870800000000000000
+      internalID: 8693519728778634552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_141
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 265
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6478159c7f785d0800000000000000
+      internalID: -3060204977746655544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95ed4a8b9e8e830800000000000000
+      internalID: 4100784439970126291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 265
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc1bf4ebd9b5b0f0800000000000000
+      internalID: -1101770179731579696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_144
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 265
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978989970c0e0a260800000000000000
+      internalID: 7106927329269028985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_145
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 207
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3570f2951d97108d0800000000000000
+      internalID: -2881888346489026733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_146
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 207
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5db66dd746e42270800000000000000
+      internalID: 8224952015816932702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_147
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 207
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1879161c54db67870800000000000000
+      internalID: 8680333439098001281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 207
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c975dc5ffff23eea0800000000000000
+      internalID: -5844775115009730660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_149
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 207
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba300555aceb87740800000000000000
+      internalID: 5150075950122140587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9870d0d5c439afad0800000000000000
+      internalID: -2667657873075665015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_151
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d740f6de27bc22f0800000000000000
+      internalID: -996220005753272359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_152
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1386ba43f014ba80800000000000000
+      internalID: -8452111963551005924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_153
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba14b8c5e2be94f0800000000000000
+      internalID: -820021382150350156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_154
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866521650efc776f0800000000000000
+      internalID: -686851855727045016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_155
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddef9c42174f0d40800000000000000
+      internalID: 5552735009491643864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_156
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e45bb6d2c542a30800000000000000
+      internalID: 4189574903511731813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_157
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 207
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fac66a576e076f0800000000000000
+      internalID: -688797350009983221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ddac718705bed80800000000000000
+      internalID: -8220388218109239957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_159
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89023042ed8915b0800000000000000
+      internalID: -5397126675547682418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_160
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5113b91140dad90800000000000000
+      internalID: -7085002165119281709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_161
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e88774a4e21290800000000000000
+      internalID: -7921017399560050549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_162
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eba8a1b4b9323f0800000000000000
+      internalID: -926726351438037392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_163
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442f38e12dd6c2c0800000000000000
+      internalID: -4411595647262710713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_164
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c7c47e4a45b0550800000000000000
+      internalID: 6128084785199610950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX_MissleTowers_165
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 149
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c6633dfec0b6f0800000000000000
+      internalID: -670808757593783715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MSX_MissleTowers_0: 217178768701331047
+      MSX_MissleTowers_1: 7912614233346942232
+      MSX_MissleTowers_10: -7886445309535847674
+      MSX_MissleTowers_100: 2614800402938859649
+      MSX_MissleTowers_101: -5870723722411429546
+      MSX_MissleTowers_102: -4015714917158986861
+      MSX_MissleTowers_103: -8175080093731770658
+      MSX_MissleTowers_104: 5664036922147927738
+      MSX_MissleTowers_105: 6453331533228527939
+      MSX_MissleTowers_106: 4424105373758069980
+      MSX_MissleTowers_107: -3882101569962764984
+      MSX_MissleTowers_108: 1598214021852474416
+      MSX_MissleTowers_109: 4999683337902490387
+      MSX_MissleTowers_11: 255019168017243458
+      MSX_MissleTowers_110: 3755738398554954809
+      MSX_MissleTowers_111: 4072772253123313622
+      MSX_MissleTowers_112: 6822919438737351590
+      MSX_MissleTowers_113: -3030914152863124792
+      MSX_MissleTowers_114: -7656682705879581125
+      MSX_MissleTowers_115: 4861842302015972981
+      MSX_MissleTowers_116: -9162880780080470185
+      MSX_MissleTowers_117: -2646949896861300939
+      MSX_MissleTowers_118: 1650308383361527222
+      MSX_MissleTowers_119: -8909729090253856182
+      MSX_MissleTowers_12: 1030353231456318864
+      MSX_MissleTowers_120: 4580862689579762755
+      MSX_MissleTowers_121: 1643111547725397070
+      MSX_MissleTowers_122: -383077673189981602
+      MSX_MissleTowers_123: 122919367478162694
+      MSX_MissleTowers_124: -5453087082869299816
+      MSX_MissleTowers_125: 3348161936950405602
+      MSX_MissleTowers_126: -1948244451279031166
+      MSX_MissleTowers_127: 2666998264696125172
+      MSX_MissleTowers_128: -8010175903662625019
+      MSX_MissleTowers_129: -8145573153001710721
+      MSX_MissleTowers_13: -207005376726431843
+      MSX_MissleTowers_130: 7728263016294192507
+      MSX_MissleTowers_131: -8532595589923928077
+      MSX_MissleTowers_132: -2413127853721432722
+      MSX_MissleTowers_133: -8150902857762165816
+      MSX_MissleTowers_134: -3677210717867522775
+      MSX_MissleTowers_135: 3807460573242406998
+      MSX_MissleTowers_136: 2161140098120883368
+      MSX_MissleTowers_137: -6973497581420280763
+      MSX_MissleTowers_138: 7258011809939688521
+      MSX_MissleTowers_139: 4655356237562135379
+      MSX_MissleTowers_14: -8625224809169716983
+      MSX_MissleTowers_140: 8693519728778634552
+      MSX_MissleTowers_141: -3060204977746655544
+      MSX_MissleTowers_142: 4100784439970126291
+      MSX_MissleTowers_143: -1101770179731579696
+      MSX_MissleTowers_144: 7106927329269028985
+      MSX_MissleTowers_145: -2881888346489026733
+      MSX_MissleTowers_146: 8224952015816932702
+      MSX_MissleTowers_147: 8680333439098001281
+      MSX_MissleTowers_148: -5844775115009730660
+      MSX_MissleTowers_149: 5150075950122140587
+      MSX_MissleTowers_15: -4936663770853845402
+      MSX_MissleTowers_150: -2667657873075665015
+      MSX_MissleTowers_151: -996220005753272359
+      MSX_MissleTowers_152: -8452111963551005924
+      MSX_MissleTowers_153: -820021382150350156
+      MSX_MissleTowers_154: -686851855727045016
+      MSX_MissleTowers_155: 5552735009491643864
+      MSX_MissleTowers_156: 4189574903511731813
+      MSX_MissleTowers_157: -688797350009983221
+      MSX_MissleTowers_158: -8220388218109239957
+      MSX_MissleTowers_159: -5397126675547682418
+      MSX_MissleTowers_16: -3297067735353468476
+      MSX_MissleTowers_160: -7085002165119281709
+      MSX_MissleTowers_161: -7921017399560050549
+      MSX_MissleTowers_162: -926726351438037392
+      MSX_MissleTowers_163: -4411595647262710713
+      MSX_MissleTowers_164: 6128084785199610950
+      MSX_MissleTowers_165: -670808757593783715
+      MSX_MissleTowers_17: -7526629999208324220
+      MSX_MissleTowers_18: -3783183114576768859
+      MSX_MissleTowers_19: -855721190171740095
+      MSX_MissleTowers_2: 4662022550273870050
+      MSX_MissleTowers_20: -8987898039358954895
+      MSX_MissleTowers_21: -580900379316452194
+      MSX_MissleTowers_22: 1335969180613501739
+      MSX_MissleTowers_23: 1583239500021618692
+      MSX_MissleTowers_24: 4626610118950094006
+      MSX_MissleTowers_25: -2561714116213773782
+      MSX_MissleTowers_26: 2403837774071385896
+      MSX_MissleTowers_27: -4202153124232357999
+      MSX_MissleTowers_28: -388836342223698252
+      MSX_MissleTowers_29: -2395110083228996518
+      MSX_MissleTowers_3: 3994865609281692516
+      MSX_MissleTowers_30: -2585284180389990078
+      MSX_MissleTowers_31: 6318321579617118200
+      MSX_MissleTowers_32: 711579613430382024
+      MSX_MissleTowers_33: -2882512244140699083
+      MSX_MissleTowers_34: -4958472364619133499
+      MSX_MissleTowers_35: -1313219482144316983
+      MSX_MissleTowers_36: -6695416213619312348
+      MSX_MissleTowers_37: -4336750918984872791
+      MSX_MissleTowers_38: -2817983923650004282
+      MSX_MissleTowers_39: -8880211179219733067
+      MSX_MissleTowers_4: 7370767934291498525
+      MSX_MissleTowers_40: -4452996375417991504
+      MSX_MissleTowers_41: -1527266950560584445
+      MSX_MissleTowers_42: 2016084162786853904
+      MSX_MissleTowers_43: 5601164679420296459
+      MSX_MissleTowers_44: 4697131542267489504
+      MSX_MissleTowers_45: -4355580602125617140
+      MSX_MissleTowers_46: -8688533382540487439
+      MSX_MissleTowers_47: 2312763237470063880
+      MSX_MissleTowers_48: 4826572124747315241
+      MSX_MissleTowers_49: -2294620837208606678
+      MSX_MissleTowers_5: -6763639141193415429
+      MSX_MissleTowers_50: 784152115943162368
+      MSX_MissleTowers_51: 5481352771661999782
+      MSX_MissleTowers_52: 2756778702561764307
+      MSX_MissleTowers_53: 3079669152521816929
+      MSX_MissleTowers_54: -5601717170839152730
+      MSX_MissleTowers_55: 4515358540597581978
+      MSX_MissleTowers_56: 6999543704763581778
+      MSX_MissleTowers_57: -1553684209217590594
+      MSX_MissleTowers_58: 5114663163587213301
+      MSX_MissleTowers_59: -8400024790781031301
+      MSX_MissleTowers_6: 2103113396897953049
+      MSX_MissleTowers_60: 3370040814633249256
+      MSX_MissleTowers_61: -3155459290940591112
+      MSX_MissleTowers_62: -8760698685487775941
+      MSX_MissleTowers_63: 6346706714682810725
+      MSX_MissleTowers_64: 5508666219366446320
+      MSX_MissleTowers_65: 5585227630719211919
+      MSX_MissleTowers_66: -8504013101089486950
+      MSX_MissleTowers_67: -3793432281005775659
+      MSX_MissleTowers_68: 705653194576219893
+      MSX_MissleTowers_69: -3302384359744012918
+      MSX_MissleTowers_7: 1260307885796327621
+      MSX_MissleTowers_70: -8534017942703622537
+      MSX_MissleTowers_71: 6774695221909945478
+      MSX_MissleTowers_72: -5309502379052133534
+      MSX_MissleTowers_73: 5675209753113360261
+      MSX_MissleTowers_74: 8116026764124961382
+      MSX_MissleTowers_75: -2512405757808910756
+      MSX_MissleTowers_76: -3210782891833026255
+      MSX_MissleTowers_77: 8140915444505093603
+      MSX_MissleTowers_78: -1401797487769263822
+      MSX_MissleTowers_79: -1486922056580089253
+      MSX_MissleTowers_8: -1266458051456333113
+      MSX_MissleTowers_80: 552115689586235898
+      MSX_MissleTowers_81: -7488793266416702830
+      MSX_MissleTowers_82: -5695996606492541620
+      MSX_MissleTowers_83: -6838132203373549984
+      MSX_MissleTowers_84: -2185527422342650272
+      MSX_MissleTowers_85: 5119332444645356304
+      MSX_MissleTowers_86: 4729956891890952488
+      MSX_MissleTowers_87: -2145549934676959534
+      MSX_MissleTowers_88: 1066019389510699610
+      MSX_MissleTowers_89: 7026961088254926984
+      MSX_MissleTowers_9: 4797937056269334581
+      MSX_MissleTowers_90: -5269832702159671432
+      MSX_MissleTowers_91: 8701250187507738117
+      MSX_MissleTowers_92: -529901191929786251
+      MSX_MissleTowers_93: -6623854677509012568
+      MSX_MissleTowers_94: 4796132696224214481
+      MSX_MissleTowers_95: 5203251769731769292
+      MSX_MissleTowers_96: -1908689588215723052
+      MSX_MissleTowers_97: -9134808281017366816
+      MSX_MissleTowers_98: 5549365329452073463
+      MSX_MissleTowers_99: 7848477757302364757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

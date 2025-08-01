@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 81e0a00385afed846a14a772d0585934
+guid: d0f1abacef3922e4ebd2d41d2bd5800f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4142276880962872504
-    second: Player_Jump_0
+      213: 1843162935080616537
+    second: weird1_0
   - first:
-      213: -2833288000470796695
-    second: Player_Jump_1
+      213: -8985848946484849870
+    second: weird1_1
   - first:
-      213: -560937678416875687
-    second: Player_Jump_2
+      213: -9139868465701252592
+    second: weird1_2
   - first:
-      213: -1627450272019776505
-    second: Player_Jump_3
+      213: -6383643933846310552
+    second: weird1_3
   - first:
-      213: -6684733232908654282
-    second: Player_Jump_4
+      213: -6499497361854031564
+    second: weird1_4
   - first:
-      213: -186415178674561052
-    second: Player_Jump_5
-  - first:
-      213: -4657594874730478759
-    second: Player_Jump_6
-  - first:
-      213: -6449261802505695524
-    second: Player_Jump_7
+      213: 1876714438666287706
+    second: weird1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,12 +61,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,19 +112,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -147,177 +128,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Jump_0
+      name: weird1_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 4
-        width: 13
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3
+        y: 2
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84b15ec9f1da386c0800000000000000
-      internalID: -4142276880962872504
+      spriteID: 95285a88cea349910800000000000000
+      internalID: 1843162935080616537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Jump_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 4
-        width: 13
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 966bf8133932ea8d0800000000000000
-      internalID: -2833288000470796695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Jump_2
+      name: weird1_1
       rect:
         serializedVersion: 2
         x: 73
-        y: 4
-        width: 13
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95f64d847262738f0800000000000000
-      internalID: -560937678416875687
+      spriteID: 233d3730ef9db4380800000000000000
+      internalID: -8985848946484849870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Jump_3
+      name: weird1_2
       rect:
         serializedVersion: 2
-        x: 106
-        y: 3
-        width: 15
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 32
+        y: 48
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70cf5a6a9922a69e0800000000000000
-      internalID: -1627450272019776505
+      spriteID: 01215183e0aa82180800000000000000
+      internalID: -9139868465701252592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Jump_4
+      name: weird1_3
       rect:
         serializedVersion: 2
-        x: 138
-        y: 3
-        width: 13
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 48
+        y: 54
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6392b3aba8e0b33a0800000000000000
-      internalID: -6684733232908654282
+      spriteID: 86173860aadb867a0800000000000000
+      internalID: -6383643933846310552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Jump_5
+      name: weird1_4
       rect:
         serializedVersion: 2
-        x: 168
+        x: 67
         y: 2
-        width: 15
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ef9c56f168b96df0800000000000000
-      internalID: -186415178674561052
+      spriteID: 4391a10d5952dc5a0800000000000000
+      internalID: -6499497361854031564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Jump_6
+      name: weird1_5
       rect:
         serializedVersion: 2
-        x: 201
-        y: 4
-        width: 13
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 71
+        y: 57
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95382007326ec5fb0800000000000000
-      internalID: -4657594874730478759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Jump_7
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 4
-        width: 13
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cde072e6f8e9f76a0800000000000000
-      internalID: -6449261802505695524
+      spriteID: a5afc85b6dd6b0a10800000000000000
+      internalID: 1876714438666287706
       vertices: []
       indices: 
       edges: []
@@ -326,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9d9524fec51a14e41b4f980fdfe1edaa
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -336,14 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_Jump_0: -4142276880962872504
-      Player_Jump_1: -2833288000470796695
-      Player_Jump_2: -560937678416875687
-      Player_Jump_3: -1627450272019776505
-      Player_Jump_4: -6684733232908654282
-      Player_Jump_5: -186415178674561052
-      Player_Jump_6: -4657594874730478759
-      Player_Jump_7: -6449261802505695524
+      weird1_0: 1843162935080616537
+      weird1_1: -8985848946484849870
+      weird1_2: -9139868465701252592
+      weird1_3: -6383643933846310552
+      weird1_4: -6499497361854031564
+      weird1_5: 1876714438666287706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,6206 @@
+fileFormatVersion: 2
+guid: e837228bcb7971545a9d236074bd6cfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 14149437862118812
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_0
+  - first:
+      213: 1297734678276172107
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_1
+  - first:
+      213: -798762378615391727
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_2
+  - first:
+      213: -8158509692293792513
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_3
+  - first:
+      213: 178064311692553182
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_4
+  - first:
+      213: -3189843515090614997
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_5
+  - first:
+      213: -5316302930679458527
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_6
+  - first:
+      213: 5968092779652784202
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_7
+  - first:
+      213: -4435428453906259261
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_8
+  - first:
+      213: 7036717668474977541
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_9
+  - first:
+      213: -1783692835616642496
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_10
+  - first:
+      213: -2728098219980471693
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_11
+  - first:
+      213: 1306126151743466972
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_12
+  - first:
+      213: -1735615171144384806
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_13
+  - first:
+      213: 2523579262925601790
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_14
+  - first:
+      213: -1382703312149956938
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_15
+  - first:
+      213: 7122970877038320387
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_16
+  - first:
+      213: 6738913894391865872
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_17
+  - first:
+      213: -4109893521752527686
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_18
+  - first:
+      213: 1747909414599699307
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_19
+  - first:
+      213: 4609425437132695040
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_20
+  - first:
+      213: -8390087208464654081
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_21
+  - first:
+      213: -813438764633966532
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_22
+  - first:
+      213: -4698687397903626251
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_23
+  - first:
+      213: 6857846682271273499
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_24
+  - first:
+      213: -5196751245243683823
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_25
+  - first:
+      213: 813502110340546073
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_26
+  - first:
+      213: 5466393788276655769
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_27
+  - first:
+      213: -3717154481724417837
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_28
+  - first:
+      213: 1317158471127509498
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_29
+  - first:
+      213: 3396104005600373259
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_30
+  - first:
+      213: 5585159922938848997
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_31
+  - first:
+      213: 4445650980468082611
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_32
+  - first:
+      213: -7216043952345220346
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_33
+  - first:
+      213: 2246069638751639153
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_34
+  - first:
+      213: 8085742312390163089
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_35
+  - first:
+      213: 3562056901575675150
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_36
+  - first:
+      213: 3147460321546289171
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_37
+  - first:
+      213: -244387681568311364
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_38
+  - first:
+      213: 4391574344588644503
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_39
+  - first:
+      213: 8757054633328448613
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_40
+  - first:
+      213: -7082128113742159208
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_41
+  - first:
+      213: 8537457164202445934
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_42
+  - first:
+      213: 3577181043014673883
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_43
+  - first:
+      213: -2268937190583171613
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_44
+  - first:
+      213: 1296023127840630881
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_45
+  - first:
+      213: 5532641082455055915
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_46
+  - first:
+      213: -5209030226104471322
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_47
+  - first:
+      213: 9134540758471259219
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_48
+  - first:
+      213: -5374585079823095408
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_49
+  - first:
+      213: 1609746928610824840
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_50
+  - first:
+      213: -5438662808839296161
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_51
+  - first:
+      213: -1454525339347766232
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_52
+  - first:
+      213: 5387213709556552575
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_53
+  - first:
+      213: 8531973324682721504
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_54
+  - first:
+      213: -4684613445324450787
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_55
+  - first:
+      213: -2381585451419844602
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_56
+  - first:
+      213: -314155319196089687
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_57
+  - first:
+      213: -8493055170705039683
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_58
+  - first:
+      213: 5757038989465098082
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_59
+  - first:
+      213: 2359760686981928673
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_60
+  - first:
+      213: -3940371097056706450
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_61
+  - first:
+      213: -5110413798899941908
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_62
+  - first:
+      213: 2742263733483768476
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_63
+  - first:
+      213: 2056227334539085059
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_64
+  - first:
+      213: -733441652917013084
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_65
+  - first:
+      213: -1578963654259422419
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_66
+  - first:
+      213: -6177608522734622181
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_67
+  - first:
+      213: -2522017959757878520
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_68
+  - first:
+      213: -4738923713515978337
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_69
+  - first:
+      213: 1544307136961156787
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_70
+  - first:
+      213: 4967503818879055353
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_71
+  - first:
+      213: 116361588634392052
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_72
+  - first:
+      213: 6961212857288862636
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_73
+  - first:
+      213: 7737492197852940212
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_74
+  - first:
+      213: 4361560812214753921
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_75
+  - first:
+      213: 8086412792171143293
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_76
+  - first:
+      213: -7735694193029725730
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_77
+  - first:
+      213: 5785492404568391735
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_78
+  - first:
+      213: -5864534495583633803
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_79
+  - first:
+      213: -7198570440712813143
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_80
+  - first:
+      213: -2048465248281698744
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_81
+  - first:
+      213: -8367422623751394411
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_82
+  - first:
+      213: -8611296173398717350
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_83
+  - first:
+      213: -7544111243757288464
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_84
+  - first:
+      213: 8949858044652210108
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_85
+  - first:
+      213: 7347960006338011361
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_86
+  - first:
+      213: -7780886966568828508
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_87
+  - first:
+      213: 4009383867279458280
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_88
+  - first:
+      213: -5573905267054138327
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_89
+  - first:
+      213: -7685080428674223438
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_90
+  - first:
+      213: -6766551631992020809
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_91
+  - first:
+      213: -4953207432539570689
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_92
+  - first:
+      213: -6727268972743799439
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_93
+  - first:
+      213: -5255160669352707987
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_94
+  - first:
+      213: -7391024764414218375
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_95
+  - first:
+      213: 329314649061159867
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_96
+  - first:
+      213: 7029006025707876436
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_97
+  - first:
+      213: 522555527155017952
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_98
+  - first:
+      213: -3679165193646655149
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_99
+  - first:
+      213: -4552558383062509665
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_100
+  - first:
+      213: 2058865984267665630
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_101
+  - first:
+      213: -8709350710637523626
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_102
+  - first:
+      213: -2145827598687624216
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_103
+  - first:
+      213: -2527322901623073529
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_104
+  - first:
+      213: 5191744554711892645
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_105
+  - first:
+      213: 1942833253574787142
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_106
+  - first:
+      213: -69207808192354490
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_107
+  - first:
+      213: -3000483808017831145
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_108
+  - first:
+      213: 2456199097892652545
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_109
+  - first:
+      213: -8286961308927106155
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_110
+  - first:
+      213: 4453044748188543241
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_111
+  - first:
+      213: -7630777887400610316
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_112
+  - first:
+      213: -5212726313348929450
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_113
+  - first:
+      213: -5722997486971083789
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_114
+  - first:
+      213: 8295405835881201432
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_115
+  - first:
+      213: -4736940964243409829
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_116
+  - first:
+      213: 8391052828794316032
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_117
+  - first:
+      213: -8944838206710562703
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_118
+  - first:
+      213: 1124090741112433129
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_119
+  - first:
+      213: 6467374121862111998
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_120
+  - first:
+      213: -7778848170091564060
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_121
+  - first:
+      213: 4680662634294562482
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_122
+  - first:
+      213: 1722365555643020626
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_123
+  - first:
+      213: -2752287967166893495
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_124
+  - first:
+      213: 4574530241168635519
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_125
+  - first:
+      213: 4000360373566987124
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_126
+  - first:
+      213: -7711020681903036653
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_127
+  - first:
+      213: 4177263146512927018
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_128
+  - first:
+      213: 3850739978343334836
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_129
+  - first:
+      213: 2293902828114252086
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_130
+  - first:
+      213: 8152115691385209805
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_131
+  - first:
+      213: 6637847532235913759
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_132
+  - first:
+      213: 8025480056754183348
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_133
+  - first:
+      213: -6691776086855609950
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_134
+  - first:
+      213: 3815936946093715629
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_135
+  - first:
+      213: 2075670496234299952
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_136
+  - first:
+      213: 1523241872577693928
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_137
+  - first:
+      213: -5602223462966872730
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_138
+  - first:
+      213: 2958705429627082504
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_139
+  - first:
+      213: -1018578567650844012
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_140
+  - first:
+      213: -5556172157884573359
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_141
+  - first:
+      213: 3710196909142478600
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_142
+  - first:
+      213: -5411266424990759095
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_143
+  - first:
+      213: 4349198264055671571
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_144
+  - first:
+      213: 7514109972935663455
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_145
+  - first:
+      213: -6092190845231597924
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_146
+  - first:
+      213: -882297489766088914
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_147
+  - first:
+      213: -3810536278649751711
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_148
+  - first:
+      213: 6315331942179036622
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_149
+  - first:
+      213: 2589025554587676014
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_150
+  - first:
+      213: 3003352009308133309
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_151
+  - first:
+      213: 7303934592684729943
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_152
+  - first:
+      213: 2660385757613918430
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_153
+  - first:
+      213: -5022894203602185183
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_154
+  - first:
+      213: -8110447923274736873
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_155
+  - first:
+      213: -3358560337757078275
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_156
+  - first:
+      213: -1590973975223097596
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_157
+  - first:
+      213: -36089217431669772
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_158
+  - first:
+      213: -8036663717986256356
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_159
+  - first:
+      213: 3825532424079150726
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_160
+  - first:
+      213: -8646304846320054874
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_161
+  - first:
+      213: -6172503498869064871
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_162
+  - first:
+      213: -9208143587474787866
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_163
+  - first:
+      213: -3521062799322684384
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_164
+  - first:
+      213: 1886326499323818707
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_165
+  - first:
+      213: 468723863735436602
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_166
+  - first:
+      213: 3273209008022765087
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_167
+  - first:
+      213: -9070846864114487331
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_168
+  - first:
+      213: 4263342998548585452
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_169
+  - first:
+      213: -5759629597924010653
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_170
+  - first:
+      213: 923780093451518562
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_171
+  - first:
+      213: -6848334340736928716
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_172
+  - first:
+      213: 5629686636124424701
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_173
+  - first:
+      213: 6389880760175927172
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_174
+  - first:
+      213: -8528974456604218897
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_175
+  - first:
+      213: -8813326796310167376
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_176
+  - first:
+      213: 7167406357306569710
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_177
+  - first:
+      213: 5848368070853699715
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_178
+  - first:
+      213: -6542470083322102259
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_179
+  - first:
+      213: -3000075487207810499
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_180
+  - first:
+      213: 6786354814749550632
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_181
+  - first:
+      213: -28412903113621944
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_182
+  - first:
+      213: -5108281421306888163
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_183
+  - first:
+      213: 3926623683176390271
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_184
+  - first:
+      213: 9198289018185373171
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_185
+  - first:
+      213: -144070006523527698
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_186
+  - first:
+      213: 8333809843531735023
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_187
+  - first:
+      213: -4906182224271259664
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_188
+  - first:
+      213: -205287347937373338
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_189
+  - first:
+      213: 6137938480720075666
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_190
+  - first:
+      213: 5950379105339158058
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_191
+  - first:
+      213: 7666624622725906392
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_192
+  - first:
+      213: 7147995794055829481
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_193
+  - first:
+      213: -3655876530914980602
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_194
+  - first:
+      213: -8852952143589419579
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_195
+  - first:
+      213: -4908938915387190970
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_196
+  - first:
+      213: 2142633177219154965
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_197
+  - first:
+      213: -8784236147091355637
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_198
+  - first:
+      213: -6729068095520360275
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_199
+  - first:
+      213: -6644411372060750555
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_200
+  - first:
+      213: -5195665078144635168
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_201
+  - first:
+      213: -2331952989847431884
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_202
+  - first:
+      213: 7815356214674105848
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_203
+  - first:
+      213: 2953448159271474655
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_204
+  - first:
+      213: 8382759646039824611
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_205
+  - first:
+      213: 3885307509341129905
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_206
+  - first:
+      213: -7494100173097536736
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_207
+  - first:
+      213: 2133499084572116158
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_208
+  - first:
+      213: -6164863743925882475
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_209
+  - first:
+      213: -1560286889659458778
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_210
+  - first:
+      213: -1585428040090323163
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_211
+  - first:
+      213: 8834280747510474964
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_212
+  - first:
+      213: -3633915764060689348
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_213
+  - first:
+      213: 6419586082244672842
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_214
+  - first:
+      213: 4267930374610946587
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_215
+  - first:
+      213: -1834212863192102103
+    second: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+      (1)_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 431
+        width: 3826
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950b89b6d4423000800000000000000
+      internalID: 14149437862118812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 247
+        width: 346
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496b5f60da720210800000000000000
+      internalID: 1297734678276172107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afea249d93ae4f0800000000000000
+      internalID: -798762378615391727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3f3619a627ce80800000000000000
+      internalID: -8158509692293792513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 399
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbeb9d4c8c987200800000000000000
+      internalID: 178064311692553182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 399
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c0f939366bb3d0800000000000000
+      internalID: -3189843515090614997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 399
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259b7ac6a2b836b0800000000000000
+      internalID: -5316302930679458527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 399
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4027c543cce2d250800000000000000
+      internalID: 5968092779652784202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 401
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e14232513272c0800000000000000
+      internalID: -4435428453906259261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 398
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d7a26ff6177a160800000000000000
+      internalID: 7036717668474977541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 401
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a29a001dc0f37e0800000000000000
+      internalID: -1783692835616642496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 401
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37240bd7f19d32ad0800000000000000
+      internalID: -2728098219980471693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 401
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd648a90da402210800000000000000
+      internalID: 1306126151743466972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 401
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adef821923bd9e7e0800000000000000
+      internalID: -1735615171144384806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 407
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf83918fd850320800000000000000
+      internalID: 2523579262925601790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 407
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6bb89d9a6afcce0800000000000000
+      internalID: -1382703312149956938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 407
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b52570640e9d260800000000000000
+      internalID: 7122970877038320387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 407
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012eb2f8b7e658d50800000000000000
+      internalID: 6738913894391865872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 407
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abce24bfd99b6f6c0800000000000000
+      internalID: -4109893521752527686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 407
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba6cc0a52d14810800000000000000
+      internalID: 1747909414599699307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 407
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a1f66308f7ff30800000000000000
+      internalID: 4609425437132695040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 407
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff06ae0f22c609b80800000000000000
+      internalID: -8390087208464654081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 1159
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38b57bd0c516b4f0800000000000000
+      internalID: -813438764633966532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 295
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8951d4b8eaceb0800000000000000
+      internalID: -4698687397903626251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12dedc1937fb2f50800000000000000
+      internalID: 6857846682271273499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 295
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c6e29a64e61e7b0800000000000000
+      internalID: -5196751245243683823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 364
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef0e6fbd32a4b00800000000000000
+      internalID: 813502110340546073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 364
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996c1a030388cdb40800000000000000
+      internalID: 5466393788276655769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 364
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8909571b30a6cc0800000000000000
+      internalID: -3717154481724417837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 364
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9a370a6ac774210800000000000000
+      internalID: 1317158471127509498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 364
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a671a8992612f20800000000000000
+      internalID: 3396104005600373259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 347
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6a484cb59728d40800000000000000
+      internalID: 5585159922938848997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 364
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ca2e330022bd30800000000000000
+      internalID: 4445650980468082611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 364
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b7bd0f1467bdb90800000000000000
+      internalID: -7216043952345220346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 364
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176d49eaf64ab2f10800000000000000
+      internalID: 2246069638751639153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 364
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a7c530bc3563070800000000000000
+      internalID: 8085742312390163089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 364
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d852021e7fe6130800000000000000
+      internalID: 3562056901575675150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 364
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310476a8c760eab20800000000000000
+      internalID: 3147460321546289171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 364
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7b3acc2b2cb9cf0800000000000000
+      internalID: -244387681568311364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 364
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790dced499102fc30800000000000000
+      internalID: 4391574344588644503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 364
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5641b3acace478970800000000000000
+      internalID: 8757054633328448613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 364
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8926796d00a37bd90800000000000000
+      internalID: -7082128113742159208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 361
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8665be042b7670800000000000000
+      internalID: 8537457164202445934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 364
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a626b433b4a130800000000000000
+      internalID: 3577181043014673883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 263
+        width: 87
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e50e9185ad1380e0800000000000000
+      internalID: -2268937190583171613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 263
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168a1ab0b266cf110800000000000000
+      internalID: 1296023127840630881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 263
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e577550c3e7cc40800000000000000
+      internalID: 5532641082455055915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 351
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e035c4ab9ec5b7b0800000000000000
+      internalID: -5209030226104471322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 361
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b1074c6864ce70800000000000000
+      internalID: 9134540758471259219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 361
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a70e7853a965b0800000000000000
+      internalID: -5374585079823095408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 361
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882df128d48f65610800000000000000
+      internalID: 1609746928610824840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_51
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 361
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b610a9dfcf584b0800000000000000
+      internalID: -5438662808839296161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_52
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 358
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243f5709ec70dbe0800000000000000
+      internalID: -1454525339347766232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_53
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 361
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739b3f735a33ca40800000000000000
+      internalID: 5387213709556552575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_54
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 345
+        width: 176
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e872d2d888a76670800000000000000
+      internalID: 8531973324682721504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 341
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14da6144e8ecfeb0800000000000000
+      internalID: -4684613445324450787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_56
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 347
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c1ed66a8e2fed0800000000000000
+      internalID: -2381585451419844602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_57
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 295
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28403d665e3abf0800000000000000
+      internalID: -314155319196089687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 350
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed454025b922a80800000000000000
+      internalID: -8493055170705039683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 347
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2671425757c15ef40800000000000000
+      internalID: 5757038989465098082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 344
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65d7e97dd8fb020800000000000000
+      internalID: 2359760686981928673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 344
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6008bc3d5df059c0800000000000000
+      internalID: -3940371097056706450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced705dd9b92419b0800000000000000
+      internalID: -5110413798899941908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 347
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a8cb2265a7e0620800000000000000
+      internalID: 2742263733483768476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_64
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 344
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30586accddf298c10800000000000000
+      internalID: 2056227334539085059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_65
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 347
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5f76ed3ba42d5f0800000000000000
+      internalID: -733441652917013084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_66
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4d921ce4661ae0800000000000000
+      internalID: -1578963654259422419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a2af867c9b44aa0800000000000000
+      internalID: -6177608522734622181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 347
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80be97f170efffcd0800000000000000
+      internalID: -2522017959757878520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91843e8df5fb3eb0800000000000000
+      internalID: -4738923713515978337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_70
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 347
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69ba2b82b7e6510800000000000000
+      internalID: 1544307136961156787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_71
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 347
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5bea0876e10f440800000000000000
+      internalID: 4967503818879055353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_72
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59d049f366d9100800000000000000
+      internalID: 116361588634392052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 347
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba59c26323b9060800000000000000
+      internalID: 6961212857288862636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 347
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78161b828116b60800000000000000
+      internalID: 7737492197852940212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 347
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a135e3370678c30800000000000000
+      internalID: 4361560812214753921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_76
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 347
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7029804795b83070800000000000000
+      internalID: 8086412792171143293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_77
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 347
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1496ded1b45a490800000000000000
+      internalID: -7735694193029725730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_78
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730050960b23a4050800000000000000
+      internalID: 5785492404568391735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_79
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 347
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e76b9a2fcfc9ea0800000000000000
+      internalID: -5864534495583633803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_80
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 331
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a58fa6e25a891c90800000000000000
+      internalID: -7198570440712813143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 331
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84edf6db5b36293e0800000000000000
+      internalID: -2048465248281698744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_82
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 331
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2bb9c471f0eb80800000000000000
+      internalID: -8367422623751394411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_83
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 331
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c83e041c78e7880800000000000000
+      internalID: -8611296173398717350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_84
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 331
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f301d15bceed4790800000000000000
+      internalID: -7544111243757288464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_85
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 331
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7caa52978443c70800000000000000
+      internalID: 8949858044652210108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_86
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 331
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0ed81d1b239f560800000000000000
+      internalID: 7347960006338011361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 331
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c230678cb40490800000000000000
+      internalID: -7780886966568828508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_88
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 328
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efbf59726134a730800000000000000
+      internalID: 4009383867279458280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_89
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 331
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c2f8101b285a2b0800000000000000
+      internalID: -5573905267054138327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_90
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 331
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2f092411c195590800000000000000
+      internalID: -7685080428674223438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_91
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 331
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a6c434216812a0800000000000000
+      internalID: -6766551631992020809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_92
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 331
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd77a4551ca24bb0800000000000000
+      internalID: -4953207432539570689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_93
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 111
+        width: 141
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d491b0380f3a2a0800000000000000
+      internalID: -6727268972743799439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_94
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 111
+        width: 146
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b0a9d63be117b0800000000000000
+      internalID: -5255160669352707987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_95
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 111
+        width: 141
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fa9f6d22ecd6990800000000000000
+      internalID: -7391024764414218375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_96
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 314
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb37f94bde5f19400800000000000000
+      internalID: 329314649061159867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_97
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 314
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f5663dbb0c8160800000000000000
+      internalID: 7029006025707876436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_98
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ed7bbb7d704700800000000000000
+      internalID: 522555527155017952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b5badfbaf0fcc0800000000000000
+      internalID: -3679165193646655149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 314
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f971556654012d0c0800000000000000
+      internalID: -4552558383062509665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c86054bf829c10800000000000000
+      internalID: 2058865984267665630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 314
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d872c3cab222780800000000000000
+      internalID: -8709350710637523626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_103
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3aef60b2d7832e0800000000000000
+      internalID: -2145827598687624216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_104
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051c0816352decd0800000000000000
+      internalID: -2527322901623073529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_105
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 314
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2cb2c5a28cc0840800000000000000
+      internalID: 5191744554711892645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_106
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 311
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6404421fc8456fa10800000000000000
+      internalID: 1942833253574787142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_107
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 314
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e2097ddf1a0ff0800000000000000
+      internalID: -69207808192354490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_108
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 314
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b29c4bfd32c56d0800000000000000
+      internalID: -3000483808017831145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_109
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106c687e01c261220800000000000000
+      internalID: 2456199097892652545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_110
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 314
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5936ef1889ccefc80800000000000000
+      internalID: -8286961308927106155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_111
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 314
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90962b0fa946ccd30800000000000000
+      internalID: 4453044748188543241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_112
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b495e0f70a1690800000000000000
+      internalID: -7630777887400610316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_113
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 314
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6586185490da8a7b0800000000000000
+      internalID: -5212726313348929450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_114
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 314
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3a2aa7b14d390b0800000000000000
+      internalID: -5722997486971083789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 314
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fb66328a33f1370800000000000000
+      internalID: 8295405835881201432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_116
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5476485a41034eb0800000000000000
+      internalID: -4736940964243409829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_117
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 311
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00562df0712037470800000000000000
+      internalID: 8391052828794316032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 314
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170cca3fa0d8dd380800000000000000
+      internalID: -8944838206710562703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ef47c292999f00800000000000000
+      internalID: 1124090741112433129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_120
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 314
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2252b8f7ab0c950800000000000000
+      internalID: 6467374121862111998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_121
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3befbadcafb0490800000000000000
+      internalID: -7778848170091564060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_122
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 311
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be429edddd05f040800000000000000
+      internalID: 4680662634294562482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 314
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255787de85217e710800000000000000
+      internalID: 1722365555643020626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_124
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 314
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9427f651da8edc9d0800000000000000
+      internalID: -2752287967166893495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_125
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 103
+        width: 437
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f767327740ffb7f30800000000000000
+      internalID: 4574530241168635519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5200a092248730800000000000000
+      internalID: 4000360373566987124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317aa776b83fcf490800000000000000
+      internalID: -7711020681903036653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29cb3d13be98f930800000000000000
+      internalID: 4177263146512927018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_129
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3cc83bb93907530800000000000000
+      internalID: 3850739978343334836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_130
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 276
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319303f77495df10800000000000000
+      internalID: 2293902828114252086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_131
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 279
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc347e09702222170800000000000000
+      internalID: 8152115691385209805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aff18692f5e1c50800000000000000
+      internalID: 6637847532235913759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc90de379b306f60800000000000000
+      internalID: 8025480056754183348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_134
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a194828a190223a0800000000000000
+      internalID: -6691776086855609950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_135
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 279
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0743d4f6ee4f430800000000000000
+      internalID: 3815936946093715629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_136
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 276
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032edc6a1534ecc10800000000000000
+      internalID: 2075670496234299952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_137
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88ef1a964a32510800000000000000
+      internalID: 1523241872577693928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_138
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 276
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66530893177e042b0800000000000000
+      internalID: -5602223462966872730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_139
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 279
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80711ff89ee6f0920800000000000000
+      internalID: 2958705429627082504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_140
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 279
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492685b70384dd1f0800000000000000
+      internalID: -1018578567650844012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_141
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159df5a3cd284e2b0800000000000000
+      internalID: -5556172157884573359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 279
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f80307e644d7330800000000000000
+      internalID: 3710196909142478600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478d694bd157e4b0800000000000000
+      internalID: -5411266424990759095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_144
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 279
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ba8c237c47b5c30800000000000000
+      internalID: 4349198264055671571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_145
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fdc0c753b774860800000000000000
+      internalID: 7514109972935663455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_146
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96751e34b0347ba0800000000000000
+      internalID: -6092190845231597924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_147
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 276
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ff5409b1371c3f0800000000000000
+      internalID: -882297489766088914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_148
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167b75391714e1bc0800000000000000
+      internalID: -3810536278649751711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd524cf0f094a750800000000000000
+      internalID: 6315331942179036622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_150
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 279
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d6b9f46011ee320800000000000000
+      internalID: 2589025554587676014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_151
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db754427dbc0ea920800000000000000
+      internalID: 3003352009308133309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_152
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75629ab60d9cc5560800000000000000
+      internalID: 7303934592684729943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8061050c69be420800000000000000
+      internalID: 2660385757613918430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_154
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1245ce195581b4ab0800000000000000
+      internalID: -5022894203602185183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_155
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b97e3b596e17f80800000000000000
+      internalID: -8110447923274736873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_156
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 279
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcf54fca2ff361d0800000000000000
+      internalID: -3358560337757078275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_157
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407afef4999bbe9e0800000000000000
+      internalID: -1590973975223097596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_158
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f373c64c09cf7ff0800000000000000
+      internalID: -36089217431669772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 279
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab826bde8087090800000000000000
+      internalID: -8036663717986256356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_160
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0afd9875071530800000000000000
+      internalID: 3825532424079150726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_161
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 276
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adca576d87220880800000000000000
+      internalID: -8646304846320054874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_162
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 276
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbd0765ccd65aa0800000000000000
+      internalID: -6172503498869064871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_163
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 279
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e136cba13a163080800000000000000
+      internalID: -9208143587474787866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_164
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02467861a0ca22fc0800000000000000
+      internalID: -3521062799322684384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_165
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d23a9af4f39d2a10800000000000000
+      internalID: 1886326499323818707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_166
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 279
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3503b3eedd318600800000000000000
+      internalID: 468723863735436602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_167
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 276
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e3ec62046cc6d20800000000000000
+      internalID: 3273209008022765087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_168
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6d7426d0ed1280800000000000000
+      internalID: -9070846864114487331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_169
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 513
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb13287edf6a2b30800000000000000
+      internalID: 4263342998548585452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_170
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 127
+        width: 308
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d9e1856fa110b0800000000000000
+      internalID: -5759629597924010653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_171
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 7
+        width: 186
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26241c0c91de1dc00800000000000000
+      internalID: 923780093451518562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_172
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 223
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434344d7334d5f0a0800000000000000
+      internalID: -6848334340736928716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_173
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 223
+        width: 129
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9c5fe0b2aa02e40800000000000000
+      internalID: 5629686636124424701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_174
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 239
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f936342ba6da850800000000000000
+      internalID: 6389880760175927172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_175
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9a9bf8beef2a980800000000000000
+      internalID: -8528974456604218897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_176
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0408849f5c0b580800000000000000
+      internalID: -8813326796310167376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_177
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 239
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee372208b1eb77360800000000000000
+      internalID: 7167406357306569710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_178
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 236
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a8f246c3992150800000000000000
+      internalID: 5848368070853699715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_179
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e37f96f1a7435a0800000000000000
+      internalID: -6542470083322102259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_180
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 239
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1f9d4d379d56d0800000000000000
+      internalID: -3000075487207810499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_181
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 111
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828a8e49fb9fd2e50800000000000000
+      internalID: 6786354814749550632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_182
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 111
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84effda7d9e0b9ff0800000000000000
+      internalID: -28412903113621944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_183
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 111
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d108646bc1dbb19b0800000000000000
+      internalID: -5108281421306888163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 211
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e5d5a8f6b2e7630800000000000000
+      internalID: 3926623683176390271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_185
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5d05e9023e6af70800000000000000
+      internalID: 9198289018185373171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_186
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 211
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed7066a719200ef0800000000000000
+      internalID: -144070006523527698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_187
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 211
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefdc55f5e3a7a370800000000000000
+      internalID: 8333809843531735023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_188
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c9f6d24db9ebb0800000000000000
+      internalID: -4906182224271259664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_189
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 208
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639f45ae3ca62df0800000000000000
+      internalID: -205287347937373338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_190
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b558c27865e2550800000000000000
+      internalID: 6137938480720075666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_191
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 211
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ea5a4154ef39250800000000000000
+      internalID: 5950379105339158058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_192
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 211
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df37df8972556a60800000000000000
+      internalID: 7666624622725906392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_193
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 211
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e71fa09d48c23360800000000000000
+      internalID: 7147995794055829481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_194
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d00203aa7b34dc0800000000000000
+      internalID: -3655876530914980602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_195
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 208
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d1db2eeef32580800000000000000
+      internalID: -8852952143589419579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_196
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641514ca012ffdbb0800000000000000
+      internalID: -4908938915387190970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_197
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 211
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5144d14c5892cbd10800000000000000
+      internalID: 2142633177219154965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_198
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 211
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08497dd3cf181680800000000000000
+      internalID: -8784236147091355637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_199
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83811283c8d92a0800000000000000
+      internalID: -6729068095520360275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_200
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 211
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc0ca8f0f4ac3a0800000000000000
+      internalID: -6644411372060750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_201
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 7
+        width: 141
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee6945a32a45e7b0800000000000000
+      internalID: -5195665078144635168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_202
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 7
+        width: 306
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435db376c1d33afd0800000000000000
+      internalID: -2331952989847431884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_203
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 7
+        width: 306
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5aac8d119b57c60800000000000000
+      internalID: 7815356214674105848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_204
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd558ebe371ccf820800000000000000
+      internalID: 2953448159271474655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_205
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 1018
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8deabfb7b855470800000000000000
+      internalID: 8382759646039824611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_206
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8f6138926be530800000000000000
+      internalID: 3885307509341129905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_207
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023f357199b9ff790800000000000000
+      internalID: -7494100173097536736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_208
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 103
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ca881d16bb9d10800000000000000
+      internalID: 2133499084572116158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_209
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 100
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591fc967611027aa0800000000000000
+      internalID: -6164863743925882475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_210
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 103
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b1622375fb85ae0800000000000000
+      internalID: -1560286889659458778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_211
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f875f89d6ff9e0800000000000000
+      internalID: -1585428040090323163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_212
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d82f69a88ba99a70800000000000000
+      internalID: 8834280747510474964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_213
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c687baddcb19dc0800000000000000
+      internalID: -3633915764060689348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_214
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d3c358783f61950800000000000000
+      internalID: 6419586082244672842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_215
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a09c0301cba3b30800000000000000
+      internalID: 4267930374610946587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X)
+        (1)_216
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 7
+        width: 306
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8bf67e119b86e0800000000000000
+      internalID: -1834212863192102103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_0: 14149437862118812
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_1: 1297734678276172107
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_10: -1783692835616642496
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_100: -4552558383062509665
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_101: 2058865984267665630
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_102: -8709350710637523626
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_103: -2145827598687624216
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_104: -2527322901623073529
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_105: 5191744554711892645
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_106: 1942833253574787142
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_107: -69207808192354490
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_108: -3000483808017831145
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_109: 2456199097892652545
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_11: -2728098219980471693
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_110: -8286961308927106155
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_111: 4453044748188543241
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_112: -7630777887400610316
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_113: -5212726313348929450
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_114: -5722997486971083789
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_115: 8295405835881201432
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_116: -4736940964243409829
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_117: 8391052828794316032
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_118: -8944838206710562703
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_119: 1124090741112433129
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_12: 1306126151743466972
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_120: 6467374121862111998
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_121: -7778848170091564060
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_122: 4680662634294562482
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_123: 1722365555643020626
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_124: -2752287967166893495
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_125: 4574530241168635519
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_126: 4000360373566987124
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_127: -7711020681903036653
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_128: 4177263146512927018
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_129: 3850739978343334836
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_13: -1735615171144384806
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_130: 2293902828114252086
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_131: 8152115691385209805
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_132: 6637847532235913759
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_133: 8025480056754183348
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_134: -6691776086855609950
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_135: 3815936946093715629
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_136: 2075670496234299952
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_137: 1523241872577693928
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_138: -5602223462966872730
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_139: 2958705429627082504
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_14: 2523579262925601790
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_140: -1018578567650844012
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_141: -5556172157884573359
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_142: 3710196909142478600
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_143: -5411266424990759095
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_144: 4349198264055671571
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_145: 7514109972935663455
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_146: -6092190845231597924
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_147: -882297489766088914
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_148: -3810536278649751711
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_149: 6315331942179036622
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_15: -1382703312149956938
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_150: 2589025554587676014
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_151: 3003352009308133309
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_152: 7303934592684729943
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_153: 2660385757613918430
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_154: -5022894203602185183
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_155: -8110447923274736873
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_156: -3358560337757078275
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_157: -1590973975223097596
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_158: -36089217431669772
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_159: -8036663717986256356
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_16: 7122970877038320387
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_160: 3825532424079150726
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_161: -8646304846320054874
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_162: -6172503498869064871
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_163: -9208143587474787866
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_164: -3521062799322684384
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_165: 1886326499323818707
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_166: 468723863735436602
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_167: 3273209008022765087
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_168: -9070846864114487331
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_169: 4263342998548585452
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_17: 6738913894391865872
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_170: -5759629597924010653
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_171: 923780093451518562
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_172: -6848334340736928716
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_173: 5629686636124424701
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_174: 6389880760175927172
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_175: -8528974456604218897
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_176: -8813326796310167376
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_177: 7167406357306569710
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_178: 5848368070853699715
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_179: -6542470083322102259
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_18: -4109893521752527686
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_180: -3000075487207810499
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_181: 6786354814749550632
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_182: -28412903113621944
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_183: -5108281421306888163
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_184: 3926623683176390271
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_185: 9198289018185373171
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_186: -144070006523527698
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_187: 8333809843531735023
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_188: -4906182224271259664
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_189: -205287347937373338
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_19: 1747909414599699307
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_190: 6137938480720075666
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_191: 5950379105339158058
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_192: 7666624622725906392
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_193: 7147995794055829481
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_194: -3655876530914980602
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_195: -8852952143589419579
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_196: -4908938915387190970
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_197: 2142633177219154965
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_198: -8784236147091355637
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_199: -6729068095520360275
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_2: -798762378615391727
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_20: 4609425437132695040
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_200: -6644411372060750555
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_201: -5195665078144635168
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_202: -2331952989847431884
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_203: 7815356214674105848
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_204: 2953448159271474655
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_205: 8382759646039824611
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_206: 3885307509341129905
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_207: -7494100173097536736
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_208: 2133499084572116158
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_209: -6164863743925882475
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_21: -8390087208464654081
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_210: -1560286889659458778
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_211: -1585428040090323163
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_212: 8834280747510474964
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_213: -3633915764060689348
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_214: 6419586082244672842
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_215: 4267930374610946587
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_216: -1834212863192102103
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_22: -813438764633966532
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_23: -4698687397903626251
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_24: 6857846682271273499
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_25: -5196751245243683823
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_26: 813502110340546073
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_27: 5466393788276655769
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_28: -3717154481724417837
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_29: 1317158471127509498
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_3: -8158509692293792513
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_30: 3396104005600373259
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_31: 5585159922938848997
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_32: 4445650980468082611
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_33: -7216043952345220346
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_34: 2246069638751639153
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_35: 8085742312390163089
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_36: 3562056901575675150
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_37: 3147460321546289171
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_38: -244387681568311364
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_39: 4391574344588644503
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_4: 178064311692553182
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_40: 8757054633328448613
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_41: -7082128113742159208
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_42: 8537457164202445934
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_43: 3577181043014673883
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_44: -2268937190583171613
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_45: 1296023127840630881
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_46: 5532641082455055915
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_47: -5209030226104471322
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_48: 9134540758471259219
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_49: -5374585079823095408
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_5: -3189843515090614997
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_50: 1609746928610824840
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_51: -5438662808839296161
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_52: -1454525339347766232
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_53: 5387213709556552575
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_54: 8531973324682721504
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_55: -4684613445324450787
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_56: -2381585451419844602
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_57: -314155319196089687
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_58: -8493055170705039683
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_59: 5757038989465098082
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_6: -5316302930679458527
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_60: 2359760686981928673
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_61: -3940371097056706450
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_62: -5110413798899941908
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_63: 2742263733483768476
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_64: 2056227334539085059
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_65: -733441652917013084
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_66: -1578963654259422419
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_67: -6177608522734622181
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_68: -2522017959757878520
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_69: -4738923713515978337
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_7: 5968092779652784202
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_70: 1544307136961156787
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_71: 4967503818879055353
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_72: 116361588634392052
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_73: 6961212857288862636
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_74: 7737492197852940212
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_75: 4361560812214753921
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_76: 8086412792171143293
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_77: -7735694193029725730
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_78: 5785492404568391735
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_79: -5864534495583633803
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_8: -4435428453906259261
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_80: -7198570440712813143
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_81: -2048465248281698744
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_82: -8367422623751394411
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_83: -8611296173398717350
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_84: -7544111243757288464
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_85: 8949858044652210108
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_86: 7347960006338011361
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_87: -7780886966568828508
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_88: 4009383867279458280
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_89: -5573905267054138327
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_9: 7036717668474977541
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_90: -7685080428674223438
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_91: -6766551631992020809
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_92: -4953207432539570689
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_93: -6727268972743799439
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_94: -5255160669352707987
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_95: -7391024764414218375
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_96: 329314649061159867
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_97: 7029006025707876436
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_98: 522555527155017952
+      Neo Geo _ NGCD - Metal Slug 2 _ Metal Slug X - Stages - Mission 1 (X) (1)_99: -3679165193646655149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
