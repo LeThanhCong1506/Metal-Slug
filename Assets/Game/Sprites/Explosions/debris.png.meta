@@ -1,43 +1,103 @@
 fileFormatVersion: 2
-guid: dfc94866533f87f45b91c6ddbc327d27
+guid: 13970d38866c8ab46ae2273b507fa5c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3338749442709606003
-    second: Coin_0
+      213: -5088017817694441252
+    second: debris_0
   - first:
-      213: 5848064539680731454
-    second: Coin_1
+      213: 8119195620578088711
+    second: debris_1
   - first:
-      213: -2652133911391862278
-    second: Coin_2
+      213: 3087430288746227893
+    second: debris_2
   - first:
-      213: 5522397121026081838
-    second: Coin_3
+      213: 4060900191535170952
+    second: debris_3
   - first:
-      213: 4786861022352539597
-    second: Coin_4
+      213: 898482385378584541
+    second: debris_4
   - first:
-      213: 5728404248119495573
-    second: Coin_5
+      213: -5169844490988317235
+    second: debris_5
   - first:
-      213: -205620266705300115
-    second: Coin_6
+      213: -1436228342886831569
+    second: debris_6
   - first:
-      213: 914892611379245800
-    second: Coin_7
+      213: -7759988620672419126
+    second: debris_7
   - first:
-      213: 3329141895401553498
-    second: Coin_8
+      213: -1580921576647938986
+    second: debris_8
   - first:
-      213: 8372122516928991645
-    second: Coin_9
+      213: -8266121033952888657
+    second: debris_9
   - first:
-      213: -384682377793776093
-    second: Coin_10
+      213: -3916790689450733119
+    second: debris_10
   - first:
-      213: -3827399151014857529
-    second: Coin_11
+      213: 6853613751153627574
+    second: debris_11
+  - first:
+      213: -3239173368054345064
+    second: debris_12
+  - first:
+      213: 4181801828977696857
+    second: debris_13
+  - first:
+      213: -461569539265234356
+    second: debris_14
+  - first:
+      213: -8163509518697771563
+    second: debris_15
+  - first:
+      213: -2562966463676754677
+    second: debris_16
+  - first:
+      213: -6204540306972705530
+    second: debris_17
+  - first:
+      213: -4777585770367268666
+    second: debris_18
+  - first:
+      213: -594245162477352164
+    second: debris_19
+  - first:
+      213: 4148044411550960977
+    second: debris_20
+  - first:
+      213: 3384409577788376347
+    second: debris_21
+  - first:
+      213: -3443433595452642908
+    second: debris_22
+  - first:
+      213: -5401495650641995864
+    second: debris_23
+  - first:
+      213: 6142202678016678768
+    second: debris_24
+  - first:
+      213: 6256888478587062163
+    second: debris_25
+  - first:
+      213: -7323348943410348800
+    second: debris_26
+  - first:
+      213: -250098016469505270
+    second: debris_27
+  - first:
+      213: 220946619240995075
+    second: debris_28
+  - first:
+      213: 791719890633082707
+    second: debris_29
+  - first:
+      213: -1084436196925339953
+    second: debris_30
+  - first:
+      213: 8691795456806322713
+    second: debris_31
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -81,10 +141,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -130,19 +190,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -159,265 +206,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Coin_0
+      name: debris_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 3
-        width: 10
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d81b24142116aa1d0800000000000000
-      internalID: -3338749442709606003
+      spriteID: cd0f67590cab369b0800000000000000
+      internalID: -5088017817694441252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_1
+      name: debris_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 3
-        width: 8
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 38
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e317a37e6bf782150800000000000000
-      internalID: 5848064539680731454
+      spriteID: 707d67a466d2da070800000000000000
+      internalID: 8119195620578088711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_2
+      name: debris_2
       rect:
         serializedVersion: 2
-        x: 37
-        y: 3
-        width: 6
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 76
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af188ba524ab13bd0800000000000000
-      internalID: -2652133911391862278
+      spriteID: 5b8208d5d71c8da20800000000000000
+      internalID: 3087430288746227893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_3
+      name: debris_3
       rect:
         serializedVersion: 2
-        x: 54
-        y: 3
-        width: 4
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 114
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2446633cee73ac40800000000000000
-      internalID: 5522397121026081838
+      spriteID: 88505c865373b5830800000000000000
+      internalID: 4060900191535170952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_4
+      name: debris_4
       rect:
         serializedVersion: 2
-        x: 69
-        y: 3
-        width: 6
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 152
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dcf7c7aecb85e6240800000000000000
-      internalID: 4786861022352539597
+      spriteID: dd7af6918fc087c00800000000000000
+      internalID: 898482385378584541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_5
+      name: debris_5
       rect:
         serializedVersion: 2
-        x: 84
-        y: 3
-        width: 8
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 190
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59b400330516f7f40800000000000000
-      internalID: 5728404248119495573
+      spriteID: dc591a293d50148b0800000000000000
+      internalID: -5169844490988317235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_6
+      name: debris_6
       rect:
         serializedVersion: 2
-        x: 99
-        y: 3
-        width: 10
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 228
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d65d864f47d752df0800000000000000
-      internalID: -205620266705300115
+      spriteID: f2ae1ed7eed711ce0800000000000000
+      internalID: -1436228342886831569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_7
+      name: debris_7
       rect:
         serializedVersion: 2
-        x: 116
-        y: 3
-        width: 8
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 266
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e2b3e49bf952bc00800000000000000
-      internalID: 914892611379245800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Coin_8
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 3
-        width: 6
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5eb7425aec733e20800000000000000
-      internalID: 3329141895401553498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Coin_9
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 3
-        width: 4
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d911a9d5211cf2470800000000000000
-      internalID: 8372122516928991645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Coin_10
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 3
-        width: 6
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 326df306a6559aaf0800000000000000
-      internalID: -384682377793776093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Coin_11
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 3
-        width: 8
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c4b02620c852eac0800000000000000
-      internalID: -3827399151014857529
+      spriteID: aca3fb3b67bfe4490800000000000000
+      internalID: -7759988620672419126
       vertices: []
       indices: 
       edges: []
@@ -426,7 +385,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 272093de482f9e041a3edd48eb08039a
+    spriteID: c3d74cf5b60be0b41b288a247b854ade
     internalID: 0
     vertices: []
     indices: 
@@ -436,18 +395,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Coin_0: -3338749442709606003
-      Coin_1: 5848064539680731454
-      Coin_10: -384682377793776093
-      Coin_11: -3827399151014857529
-      Coin_2: -2652133911391862278
-      Coin_3: 5522397121026081838
-      Coin_4: 4786861022352539597
-      Coin_5: 5728404248119495573
-      Coin_6: -205620266705300115
-      Coin_7: 914892611379245800
-      Coin_8: 3329141895401553498
-      Coin_9: 8372122516928991645
+      debris_0: -5088017817694441252
+      debris_1: 8119195620578088711
+      debris_2: 3087430288746227893
+      debris_3: 4060900191535170952
+      debris_4: 898482385378584541
+      debris_5: -5169844490988317235
+      debris_6: -1436228342886831569
+      debris_7: -7759988620672419126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
