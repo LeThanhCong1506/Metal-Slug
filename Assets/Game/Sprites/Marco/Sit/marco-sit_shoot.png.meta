@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 09c1329829f67734a96136ac6c85a498
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6669949857001184197
+    second: marco-sit_shoot_0
+  - first:
+      213: 6408095189115165587
+    second: marco-sit_shoot_1
+  - first:
+      213: 5675170227215960569
+    second: marco-sit_shoot_2
+  - first:
+      213: 8022150042098466159
+    second: marco-sit_shoot_3
+  - first:
+      213: 1715363332981558806
+    second: marco-sit_shoot_4
+  - first:
+      213: 8518287346283782071
+    second: marco-sit_shoot_5
+  - first:
+      213: 7181493826080584528
+    second: marco-sit_shoot_6
+  - first:
+      213: -5633431016813878152
+    second: marco-sit_shoot_7
+  - first:
+      213: -3758048193883367665
+    second: marco-sit_shoot_8
+  - first:
+      213: -971878934813318974
+    second: marco-sit_shoot_9
+  - first:
+      213: -2440145864613933041
+    second: marco-sit_shoot_10
+  - first:
+      213: -3233442589653458260
+    second: marco-sit_shoot_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco-sit_shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 60
+      alignment: 9
+      pivot: {x: 0.07894737, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb19385e0c609c50800000000000000
+      internalID: 6669949857001184197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 50
+        height: 60
+      alignment: 9
+      pivot: {x: 0.04, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b591a7f902ee850800000000000000
+      internalID: 6408095189115165587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 51
+        height: 60
+      alignment: 9
+      pivot: {x: 0.03921569, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f98419d04142ce40800000000000000
+      internalID: 5675170227215960569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 52
+        height: 60
+      alignment: 9
+      pivot: {x: 0.05769231, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df92ac5f6645f60800000000000000
+      internalID: 8022150042098466159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.08108108, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf13f9a539073670800000000000000
+      internalID: 8518287346283782071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.08108108, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053b13ce59ac9a360800000000000000
+      internalID: 7181493826080584528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.05405406, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8742420665802d1b0800000000000000
+      internalID: -5633431016813878152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.05405406, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0798c2241bb8dbc0800000000000000
+      internalID: -3758048193883367665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 34
+        height: 60
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c064cd02413382f0800000000000000
+      internalID: -971878934813318974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 33
+        height: 60
+      alignment: 9
+      pivot: {x: 0.06060606, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005c8bb34cd22ed0800000000000000
+      internalID: -2440145864613933041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-sit_shoot_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.0625, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22612a8118023d0800000000000000
+      internalID: -3233442589653458260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 90b9694b7a83ad047aa81cea31a8cf93
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marco-sit_shoot_0: 6669949857001184197
+      marco-sit_shoot_1: 6408095189115165587
+      marco-sit_shoot_10: -2440145864613933041
+      marco-sit_shoot_11: -3233442589653458260
+      marco-sit_shoot_2: 5675170227215960569
+      marco-sit_shoot_3: 8022150042098466159
+      marco-sit_shoot_4: 1715363332981558806
+      marco-sit_shoot_5: 8518287346283782071
+      marco-sit_shoot_6: 7181493826080584528
+      marco-sit_shoot_7: -5633431016813878152
+      marco-sit_shoot_8: -3758048193883367665
+      marco-sit_shoot_9: -971878934813318974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
