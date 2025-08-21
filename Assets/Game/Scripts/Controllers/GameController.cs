@@ -5,6 +5,7 @@ using DenkKits.GameServices.SaveData;
 using DenkKits.UIManager.Scripts.Base;
 using DenkKits.UIManager.Scripts.UIPopup;
 using DenkKits.UIManager.Scripts.UIView;
+using Game.Scripts.Gameplay;
 using Game.Scripts.Popup;
 using Game.Scripts.Views;
 using Imba.Utils;
@@ -15,7 +16,7 @@ namespace Game.Scripts.Controllers
     public class GameController : ManualSingletonMono<GameController>
     {
         [SerializeField] private Transform playerTransform;
-        //[SerializeField] private Player player;
+        [SerializeField] private PlayerController _player;
         [SerializeField] private List<GameObject> levelList;
 
         [SerializeField] private bool testStat;
@@ -119,64 +120,27 @@ namespace Game.Scripts.Controllers
             }
         }
 
-        #endregion
-
-        #region Input Handling
-
+        // Fix for CS1003 and CS1525 errors in HandleKeyboardInput method
         private void HandleKeyboardInput()
         {
-            float horizontal = Input.GetAxisRaw("Horizontal"); // A/D hoặc ←/→
-            Vector2 input = new Vector2(horizontal, 0f);
-            //player.Move(input);
+            bool jump = Input.GetButtonDown("Jump");
+            bool fireKey = Input.GetButtonDown("Fire1");
+            bool grenadeKey = Input.GetButtonDown("Fire2");
+            int horizontalKey = (int)Input.GetAxisRaw("Horizontal");
+            int verticalKey = (int)Input.GetAxis("Vertical");
 
-            // Nhảy với Space hoặc W
-            if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W))
-            {
-                //player.Jump();
-            }
+            // Corrected ternary operator syntax
+            _player.MovementManager.HorizontalMovement(
+                horizontalKey < 0 ? Vector3.left : Vector3.right
+            );
 
-            if (Input.GetKeyDown(KeyCode.F))
-            {
-                float currentTime = Time.time;
-                //if (currentTime - _lastShootTime > ShootCooldown && _apple > 0)
-                //{
-                //    _apple--;
-                //    _lastShootTime = currentTime;
+            if (horizontalKey == 0) _player.MovementManager.StopMoving();
 
-                //    player.Shoot();
-                //    _gameView.SetApple(_apple);
-                //    AudioManager.Instance.PlaySfx(AudioName.Gameplay_LootElemet);
-                //}
-            }
-
+            if (jump) _player.Jump();
         }
 
         private float _lastShootTime = -1f;
         private const float ShootCooldown = 0.5f;
-
-        //private void HandleJoystickInput()
-        //{
-        //    float currentTime = Time.time;
-
-        //    bool shootByRT = Input.GetAxisRaw("RT") > 0.8f;
-        //    bool shootByLT = Input.GetAxis("LT") > 0.8f;
-        //    bool canShoot = (shootByLT || shootByRT) && currentTime - _lastShootTime > ShootCooldown;
-
-        //    //if (canShoot && _apple > 0)
-        //    //{
-        //    //    _apple--;
-        //    //    _lastShootTime = currentTime;
-
-        //    //    player.Shoot();
-        //    //    _gameView.SetApple(_apple);
-        //    //    AudioManager.Instance.PlaySfx(AudioName.Gameplay_LootElemet);
-        //    //}
-
-        //    //if (Input.GetKeyDown(KeyCode.JoystickButton0))
-        //    //{
-        //    //    player.Jump();
-        //    //}
-        //}
 
 
         private void HandleDebugInput()
