@@ -269,8 +269,8 @@ namespace Game.Scripts.Controllers
         private void UnregisterEvents()
         {
             var manager = SoArchitectureManager.Instance;
-            manager.PauseGame.RemoveListener(PauseGame);
-            manager.ResumeGame.RemoveListener(ResumeGame);
+            manager.PauseGame?.RemoveListener(PauseGame);
+            manager.ResumeGame?.RemoveListener(ResumeGame);
         }
 
         #endregion

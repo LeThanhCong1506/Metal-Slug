@@ -46,11 +46,11 @@ MonoBehaviour:
   - id: 53
     userName: Wendy
     score: 810
-  - id: 50
-    userName: TinaB
-    score: 770
   - id: 29
     userName: Yuki
+    score: 770
+  - id: 50
+    userName: TinaB
     score: 770
   - id: 18
     userName: Nina
@@ -130,11 +130,11 @@ MonoBehaviour:
   - id: 17
     userName: Mason
     score: 370
-  - id: 54
-    userName: Xavier
-    score: 340
   - id: 36
     userName: Frank
+    score: 340
+  - id: 54
+    userName: Xavier
     score: 340
   - id: 21
     userName: Quentin
