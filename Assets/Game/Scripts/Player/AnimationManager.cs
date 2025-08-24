@@ -9,6 +9,7 @@ public class AnimationManager : MonoBehaviour
     [SerializeField] private Animator topAnimator;
     [SerializeField] private Animator bottomAnimator;
 
+    public Animator TopAnimator => topAnimator;
     public void StartRunningAnimation()
     {
         topAnimator.SetBool(IsRun, true);

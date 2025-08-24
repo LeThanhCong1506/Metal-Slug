@@ -71,7 +71,7 @@ namespace Game.Scripts.Controllers
         protected override void OnDestroy()
         {
             base.OnDestroy();
-            UnregisterEvents();
+            //UnregisterEvents();
         }
 
         #endregion
@@ -135,8 +135,10 @@ namespace Game.Scripts.Controllers
             );
 
             if (horizontalKey == 0) _player.MovementManager.StopMoving();
-
+            
             if (jump) _player.Jump();
+
+            if (fireKey) _player.AttackManager.Attack();
         }
 
         private float _lastShootTime = -1f;
@@ -269,8 +271,8 @@ namespace Game.Scripts.Controllers
         private void UnregisterEvents()
         {
             var manager = SoArchitectureManager.Instance;
-            manager.PauseGame?.RemoveListener(PauseGame);
-            manager.ResumeGame?.RemoveListener(ResumeGame);
+            manager.PauseGame.RemoveAll();
+            manager.ResumeGame.RemoveAll();
         }
 
         #endregion
