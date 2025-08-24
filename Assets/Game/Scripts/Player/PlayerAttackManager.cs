@@ -1,16 +1,13 @@
+using System;
 using UnityEngine;
 
 public class PlayerAttackManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField]
+    private MeleeAttack meleeAttack;
 
-    // Update is called once per frame
-    void Update()
+    public void Attack()
     {
-        
+        meleeAttack.AttackType1();
     }
 }

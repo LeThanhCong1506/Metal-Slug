@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b70d970302a59344ca0c4d200e376ee0, type: 3}
   m_Name: SpriteAtlasDataCollection
   m_EditorClassIdentifier: 
-  _list: []
+  _list:
+  - name: 0
+    atlas: {fileID: 0}

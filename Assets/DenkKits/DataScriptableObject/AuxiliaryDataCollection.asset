@@ -33,3 +33,5 @@ MonoBehaviour:
     Sprite: {fileID: 0}
   - type: 9
     Sprite: {fileID: 0}
+  - type: 0
+    Sprite: {fileID: 0}

@@ -7,22 +7,21 @@ namespace Game.Scripts.Gameplay
 {
     public class PlayerController : MonoBehaviour
     {
+        // this should be in movement manager
         [SerializeField] private float moveSpeed = 5f;
         [SerializeField] private float jumpForce = 10f;
         [SerializeField] private Transform groundCheck;
         [SerializeField] private float groundCheckRadius = 0.2f;
         [SerializeField] private LayerMask groundLayer;
         [SerializeField] private Rigidbody2D rb;
-        //[SerializeField] private GameObject bulletPrefab;
-        //[SerializeField] private Transform firePoint;
-        //[SerializeField] private float bulletDistance = 100f;
-        //[SerializeField] private float bulletSpeed = 15f;
-        //[SerializeField] private LayerMask bulletHitLayer;
+
 
         private AnimationManager _animationManager;
         private MovementManager _movementManager;
         private PlayerAttackManager _attackManager;
         private PhysicManager _physicManager;
+
+        // this should be in movement manager
         private bool _isGrounded;
         private int _jumpCount = 0;
 
@@ -61,6 +60,7 @@ namespace Game.Scripts.Gameplay
             //animator.SetBool(IsJump, !_isGrounded);
         }
 
+        // this should be in attack manager
         public void Shoot()
         {
 
@@ -84,7 +84,8 @@ namespace Game.Scripts.Gameplay
         //        transform.localScale = new Vector3(Mathf.Sign(input.x), 1, 1);
         //    }
         //}
-
+        
+        // this should be in movement manager
         public void Jump()
         {
             if (_jumpCount < _maxJumpCount)
@@ -126,6 +127,7 @@ namespace Game.Scripts.Gameplay
         //    _isInvincible = false;
         //}
 
+        // this shold be in pick up system and detect controller
         private void OnTriggerEnter2D(Collider2D other)
         {
             if (other.CompareTag("EndPoint"))
@@ -133,6 +135,7 @@ namespace Game.Scripts.Gameplay
                 Destroy(other.gameObject);
                 GameController.Instance.ShowEndGame();
             }
+            // pick up system
 
             if (other.CompareTag("Coin"))
             {
@@ -160,5 +163,6 @@ namespace Game.Scripts.Gameplay
             //    }
             //}
         }
+
     }
 }

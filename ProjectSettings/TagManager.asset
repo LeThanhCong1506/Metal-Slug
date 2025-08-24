@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - MainCanvas
+  - StrangerProfile
   layers:
   - Default
   - TransparentFX
@@ -43,6 +45,9 @@ TagManager:
     locked: 0
   - name: BackGround
     uniqueID: 3315985167
+    locked: 0
+  - name: Player
+    uniqueID: 3185216015
     locked: 0
   - name: Block
     uniqueID: 2922365131
