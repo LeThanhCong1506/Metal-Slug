@@ -1,3 +1,4 @@
+using HealthSystem;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -34,17 +35,18 @@ public class MeleeAttack : MonoBehaviour
 
     public void DoAttack()
     {
-        Debug.Log("DoAttack");
         List<Collider2D> results = new List<Collider2D>();
         int count = Physics2D.OverlapCollider(attackDetect, enemyFilter, results);
 
+        Debug.Log("result: " +count);
         for (int i = 0; i < count; i++)
         {
-            // gay dame cho enemy
-            var obtacle = results[i].GetComponent<ICanTakeDamege>();
+            
+            var obtacle = results[i].GetComponent<Health>();
             if (obtacle != null)
             {
-                obtacle.TakeDamage(10);
+                Debug.Log("DoAttack");
+                obtacle.TakeDamage(new DamageInfo(50));
             }
         }
     }
