@@ -1,7 +1,10 @@
 ﻿using UnityEngine;
 
-public interface ICanTakeDamege
+namespace HealthSystem
 {
-    void TakeDamage(int v);
-    void TakeDamage(int damage, GameObject source);
+    public interface ICanTakeDamege
+    {
+        void TakeDamage(int v);
+        void TakeDamage(int damage, GameObject source);
+    }
 }
