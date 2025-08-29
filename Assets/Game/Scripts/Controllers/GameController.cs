@@ -130,13 +130,11 @@ namespace Game.Scripts.Controllers
             int verticalKey = (int)Input.GetAxis("Vertical");
 
             // Corrected ternary operator syntax
-            _player.MovementManager.HorizontalMovement(
-                horizontalKey < 0 ? Vector3.left : Vector3.right
-            );
+            _player.MovementManager.HorizontalMovement(horizontalKey < 0 ? Vector3.left : (horizontalKey > 0 ? Vector3.right : Vector3.zero));
 
             if (horizontalKey == 0) _player.MovementManager.StopMoving();
-            
-            if (jump) _player.Jump();
+
+            if (jump) _player.MovementManager.Jump();
 
             if (fireKey) _player.AttackManager.Attack();
         }

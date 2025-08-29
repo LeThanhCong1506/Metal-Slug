@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using DenkKits.GameServices.Audio.Scripts;
 using Game.Scripts.Controllers;
@@ -45,30 +46,30 @@ namespace Game.Scripts.Gameplay
             _physicManager = GetComponent<PhysicManager>();
         }
 
-        public void Stop()
-        {
-            rb.linearVelocity = Vector2.zero;
-        }
+        //public void Stop()
+        //{
+        //    rb.linearVelocity = Vector2.zero;
+        //}
 
-        private void Update()
-        {
-            _isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        //private void Update()
+        //{
+        //    _isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-            if (_isGrounded)
-                _jumpCount = 0;
+        //    if (_isGrounded)
+        //        _jumpCount = 0;
 
-            //animator.SetBool(IsJump, !_isGrounded);
-        }
+        //    //animator.SetBool(IsJump, !_isGrounded);
+        //}
 
         // this should be in attack manager
-        public void Shoot()
-        {
+        //public void Shoot()
+        //{
 
             //Vector2 direction = new Vector2(transform.localScale.x, 0); // trái hoặc phải
             //// Nếu không trúng gì → tạo đạn bay tới
             //GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
             ////bullet.GetComponent<Bullet>().Shoot(direction, bulletSpeed, bulletDistance, bulletHitLayer);
-        }
+        //}
 
         //public void Move(Vector2 input)
         //{
@@ -86,15 +87,15 @@ namespace Game.Scripts.Gameplay
         //}
         
         // this should be in movement manager
-        public void Jump()
-        {
-            if (_jumpCount < _maxJumpCount)
-            {
-                AudioManager.Instance.PlaySfx(AudioName.Gameplay_ChangeElemet);
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-                _jumpCount++;
-            }
-        }
+        //public void Jump()
+        //{
+        //    if (_jumpCount < _maxJumpCount)
+        //    {
+        //        AudioManager.Instance.PlaySfx(AudioName.Gameplay_ChangeElemet);
+        //        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        //        _jumpCount++;
+        //    }
+        //}
 
         //public void StartInvincibility()
         //{
