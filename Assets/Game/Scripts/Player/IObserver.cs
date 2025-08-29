@@ -19,8 +19,3 @@
     LookStraight,
     LookDown
 };
-
-//public interface IObserver
-//{
-//    void Observe(SlugEvents ev);
-//}

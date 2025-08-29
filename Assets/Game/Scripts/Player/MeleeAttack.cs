@@ -11,13 +11,11 @@ public class MeleeAttack : MonoBehaviour
     [SerializeField]
     private ContactFilter2D enemyFilter;
 
-
     private static readonly int IsAttacking = Animator.StringToHash("knifeing");
     private static readonly int Attack = Animator.StringToHash("knife");
     private static readonly int Attack2 = Animator.StringToHash("knife2");
 
     private bool isAttacking;
-
 
     public void AttackType1()
     {

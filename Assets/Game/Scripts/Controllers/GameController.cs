@@ -27,8 +27,8 @@ namespace Game.Scripts.Controllers
         private bool _isGamePaused;
         private int _userScore;
         private int _userHealth = 3;
-        private int _points = 3;
-        private float _remainingTime;
+        //private int _points = 3;
+        //private float _remainingTime;
         private bool _isGameEnd;
         private GameObject _currentLevel;
 
@@ -37,7 +37,7 @@ namespace Game.Scripts.Controllers
         private void Start()
         {
             _userHealth = 3;
-            _points = 0;
+            //_points = 0;
             RegisterEvents();
             InitGameView();
             if (testStat)
@@ -139,8 +139,8 @@ namespace Game.Scripts.Controllers
             if (fireKey) _player.AttackManager.Attack();
         }
 
-        private float _lastShootTime = -1f;
-        private const float ShootCooldown = 0.5f;
+        //private float _lastShootTime = -1f;
+        //private const float ShootCooldown = 0.5f;
 
 
         private void HandleDebugInput()

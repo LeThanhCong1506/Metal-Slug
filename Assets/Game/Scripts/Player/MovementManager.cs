@@ -1,31 +1,19 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary>
-/// Direction the player is looking.
-/// </summary>
 public enum LookDirection { Straight, Up, Down }
-
-/// <summary>
-/// Player's body posture.
-/// </summary>
 public enum BodyPosture { Stand, Running, InTheAir, Crouch }
 
 public class MovementManager : MonoBehaviour
 {
-    [SerializeField] private float crouchSpeedFactor = 0.25f;
+    //[SerializeField] private float crouchSpeedFactor = 0.25f;
 
     private LookDirection lookDirection = LookDirection.Straight;
     private BodyPosture body = BodyPosture.Stand;
 
-    //private TimeUtils timeUtils;
     private PhysicManager physics;
     private AnimationManager animManager;
     private CapsuleCollider2D _collider;
 
-    // Cache default collider values for restoration
     private Vector2 defaultColliderSize;
     private Vector2 defaultColliderOffset;
 

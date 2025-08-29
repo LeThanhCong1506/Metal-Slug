@@ -1,5 +1,3 @@
-using DenkKits.UIManager.Scripts.UIAnimation;
-using System;
 using UnityEngine;
 
 public class AnimationManager : MonoBehaviour
