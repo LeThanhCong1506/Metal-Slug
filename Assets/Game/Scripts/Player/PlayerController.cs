@@ -8,25 +8,17 @@ namespace Game.Scripts.Gameplay
 {
     public class PlayerController : MonoBehaviour
     {
-        // this should be in movement manager
-        [SerializeField] private float moveSpeed = 5f;
-        [SerializeField] private float jumpForce = 10f;
-        [SerializeField] private Transform groundCheck;
-        [SerializeField] private float groundCheckRadius = 0.2f;
-        [SerializeField] private LayerMask groundLayer;
-        [SerializeField] private Rigidbody2D rb;
-
+        //[SerializeField] private float moveSpeed = 5f;
+        //[SerializeField] private float jumpForce = 10f;
+        //[SerializeField] private Transform groundCheck;
+        //[SerializeField] private float groundCheckRadius = 0.2f;
+        //[SerializeField] private LayerMask groundLayer;
+        //[SerializeField] private Rigidbody2D rb;
 
         private AnimationManager _animationManager;
         private MovementManager _movementManager;
         private PlayerAttackManager _attackManager;
         private PhysicManager _physicManager;
-
-        // this should be in movement manager
-        private bool _isGrounded;
-        private int _jumpCount = 0;
-
-        private const int _maxJumpCount = 2;
 
         public MovementManager MovementManager => _movementManager;
         public PlayerAttackManager AttackManager => _attackManager;

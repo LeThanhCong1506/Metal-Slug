@@ -1,38 +1,28 @@
-using Game.Scripts.Gameplay;
-using System;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public class PhysicManager : MonoBehaviour
 {
     private Rigidbody2D rb;
-    private AnimationManager animManager;
     [SerializeField] private Transform groundCheck;
 
     [Header("Physics Settings")]
-    public float groundDrag = 5f;
-    public float airDrag = 0f;
-    public float jumpForce = 7f;
-    public float maxFallSpeed = -15f;
-    public float groundCheckRadius = 0.2f;
-    public LayerMask groundLayer;
+    [SerializeField] private float jumpForce = 7f;
+    [SerializeField] private float maxFallSpeed = -15f;
+    [SerializeField] private float groundCheckRadius = 0.2f;
+    [SerializeField] private LayerMask groundLayer;
 
     [Header("Movement Settings")]
-    public float moveSpeed = 5f;
+    [SerializeField] private float moveSpeed = 5f;
 
-    [Header("Debug")]
-    public bool debugging = false;
-
-    private bool wasGrounded = false; // Add this field
+    private bool wasGrounded = false;
     private bool inTheAir;
-    private bool _isGrounded;
+    private bool isGrounded;
 
     public bool InTheAir => inTheAir;
 
     void Awake()
     {
-        animManager = GetComponent<AnimationManager>();
         rb = GetComponent<Rigidbody2D>();
     }
 
@@ -44,26 +34,20 @@ public class PhysicManager : MonoBehaviour
 
     void Update()
     {
-        // Limit fall speed (clamp)
         if (rb.linearVelocity.y < maxFallSpeed)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, maxFallSpeed);
         }
 
-        _isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-        inTheAir = !_isGrounded;
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        inTheAir = !isGrounded;
 
-        // Only call StopFalling() once when landing
-        if (_isGrounded && !wasGrounded)
+        if (isGrounded && !wasGrounded)
         {
             StopFalling();
         }
-        //else if (!_isGrounded && wasGrounded)
-        //{
-        //    StartFalling();
-        //}
 
-        wasGrounded = _isGrounded; // Update for next frame
+        wasGrounded = isGrounded;
     }
 
     void StopFalling()
@@ -72,25 +56,17 @@ public class PhysicManager : MonoBehaviour
         PlayerEvents.Raise(SlugEvents.HitGround);
     }
 
-    void StartFalling()
-    {
-        inTheAir = true;
-        PlayerEvents.Raise(SlugEvents.Fall);
-    }
-
 #if UNITY_EDITOR
     void OnDrawGizmos()
     {
         if (groundCheck == null) return;
 
         // Set gizmo color based on _isGrounded state
-        Gizmos.color = _isGrounded ? Color.green : Color.red;
+        Gizmos.color = isGrounded ? Color.green : Color.red;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 #endif
 
-
-    // Di chuyển ngang
     public void Move(float inputX)
     {
         float targetSpeed = inputX * moveSpeed;
@@ -102,7 +78,6 @@ public class PhysicManager : MonoBehaviour
         }
     }
 
-    // Nhảy
     public bool JumpLowVel()
     {
         if (inTheAir) return false;
@@ -121,7 +96,6 @@ public class PhysicManager : MonoBehaviour
         return true;
     }
 
-    // API tiện ích
     public void SetVelocity(Vector2 vel)
     {
         rb.linearVelocity = vel;
@@ -161,11 +135,5 @@ public class PhysicManager : MonoBehaviour
     {
         if (transform.right != newDir)
             transform.right = newDir;
-    }
-
-    private void DebugPrint(string msg)
-    {
-        if (debugging)
-            Debug.Log(msg);
     }
 }
