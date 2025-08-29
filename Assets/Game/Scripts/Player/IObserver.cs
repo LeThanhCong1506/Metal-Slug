@@ -15,10 +15,12 @@
     LookUp,
     Shoot,
     Attack,
-    Grenade
+    Grenade,
+    LookStraight,
+    LookDown
 };
 
-public interface IObserver
-{
-    void Observe(SlugEvents ev);
-}
+//public interface IObserver
+//{
+//    void Observe(SlugEvents ev);
+//}

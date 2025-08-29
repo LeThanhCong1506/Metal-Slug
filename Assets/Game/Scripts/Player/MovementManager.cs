@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,7 +13,7 @@ public enum LookDirection { Straight, Up, Down }
 /// </summary>
 public enum BodyPosture { Stand, Running, InTheAir, Crouch }
 
-public class MovementManager : MonoBehaviour, IObserver
+public class MovementManager : MonoBehaviour
 {
     [SerializeField] private float crouchSpeedFactor = 0.25f;
 
@@ -22,8 +23,7 @@ public class MovementManager : MonoBehaviour, IObserver
     //private TimeUtils timeUtils;
     private PhysicManager physics;
     private AnimationManager animManager;
-    private List<IObserver> observers;
-    private CapsuleCollider2D collider;
+    private CapsuleCollider2D _collider;
 
     // Cache default collider values for restoration
     private Vector2 defaultColliderSize;
@@ -33,76 +33,79 @@ public class MovementManager : MonoBehaviour, IObserver
     {
         physics = GetComponent<PhysicManager>();
         animManager = GetComponent<AnimationManager>();
-        //timeUtils = GetComponent<TimeUtils>();
-        collider = GetComponent<CapsuleCollider2D>();
-        observers = new List<IObserver>(GetComponents<IObserver>());
-        defaultColliderSize = collider.size;
-        defaultColliderOffset = collider.offset;
+        _collider = GetComponent<CapsuleCollider2D>();
+        defaultColliderSize = _collider.size;
+        defaultColliderOffset = _collider.offset;
     }
 
-    public void Observe(SlugEvents ev)
-    {
-        if (ev == SlugEvents.HitGround && lookDirection == LookDirection.Down)
-        {
-            //Crouch();
-        }
-    }
+    //public void Observe(SlugEvents ev)
+    //{
+    //    if (ev == SlugEvents.HitGround && lookDirection == LookDirection.Down)
+    //    {
+    //        //Crouch();
+    //    }
+    //}
 
-    private void TurnAround()
+    private void TurnAround(Vector3 dir)
     {
-        physics.ChangeDirection(-transform.right);
-        if (lookDirection == LookDirection.Straight)
+        physics.ChangeDirection(dir);
+        if (lookDirection != LookDirection.Up && lookDirection != LookDirection.Down)
         {
-            animManager.StartTurnAnimation();
-            // Flip look direction
             lookDirection = LookDirection.Straight;
         }
+
     }
 
     public void HorizontalMovement(Vector3 dir)
     {
-        if (transform.right != dir)
-        {
-            Debug.Log($"Moving horizontally: {dir}");
-            TurnAround();
-        }
+        Vector3? turnDir =
+    dir == Vector3.right ? Vector3.right :
+    dir == Vector3.left ? Vector3.left :
+    dir == Vector3.zero && transform.position == Vector3.right ? Vector3.right :
+    dir == Vector3.zero && transform.position == Vector3.left ? Vector3.left :
+    null;
+
+        if (turnDir.HasValue)
+            TurnAround(turnDir.Value);
+
         if (physics.InTheAir)
         {
             physics.SetVelocityX(dir.x);
         }
-        physics.SetForceX(dir.x);
+        physics.Move(dir.x);
         animManager.StartRunningAnimation();
     }
 
     public void StopMoving()
     {
-        physics.SetForceX(0);
+        physics.Move(0);
         animManager.StopRunningAnimation();
     }
 
-    //public void Jump()
-    //{
-    //    if (body == BodyPosture.Crouch)
-    //    {
-    //        LookDown();
-    //    }
-    //    body = BodyPosture.Stand;
-    //    if (Mathf.Abs(physics.GetVelocityX()) > 0)
-    //    {
-    //        if (physics.JumpHighVel())
-    //        {
-    //            timeUtils.FrameDelay(animManager.StartHighVelJumpAnim);
-    //        }
-    //    }
-    //    else
-    //    {
-    //        if (physics.JumpLowVel())
-    //        {
-    //            timeUtils.FrameDelay(animManager.StartLowVelJumpAnim);
-    //        }
-    //    }
-    //    AdaptColliderStanding();
-    //}
+    public void Jump()
+    {
+        //if (body == BodyPosture.Crouch)
+        //{
+        //    LookDown();
+        //}
+        body = BodyPosture.Stand;
+        Debug.Log(Mathf.Abs(physics.GetVelocity().x));
+        if (Mathf.Abs(physics.GetVelocity().x) > 0)
+        {
+            if (physics.JumpHighVel())
+            {
+                animManager.StartHighVelJumpAnimation();
+            }
+        }
+        else
+        {
+            if (physics.JumpLowVel())
+            {
+                animManager.StartLowVelJumpAnimation();
+            }
+        }
+        AdaptColliderStanding();
+    }
 
     //public void LookUp()
     //{
@@ -110,18 +113,18 @@ public class MovementManager : MonoBehaviour, IObserver
     //    animManager.StartLookUpAnim();
     //}
 
-    //private void LookDown()
-    //{
-    //    lookDirection = LookDirection.Down;
-    //    animManager.StartLookDownAnim();
-    //}
+    private void LookDown()
+    {
+        lookDirection = LookDirection.Down;
+        animManager.StartLookDownAnimation();
+    }
 
     public void DefaultBodyPosition()
     {
         body = BodyPosture.Stand;
         lookDirection = LookDirection.Straight;
-        animManager.StartLookStraightAnim();
-        physics.SetMovementFactor(physics.groundMovementFactor);
+        animManager.StartLookStraightAnimation();
+        physics.SetSpeedForGroundMovement();
         AdaptColliderStanding();
     }
 
@@ -148,18 +151,18 @@ public class MovementManager : MonoBehaviour, IObserver
 
     public void BlockMovement()
     {
-        physics.SetMovementFactor(0);
+        physics.StopSpeed();
     }
 
     public void AllowMovement()
     {
         if (body == BodyPosture.Crouch)
         {
-            physics.SetMovementFactor(crouchSpeedFactor);
+            physics.SetSpeedForCrouchMovement();
         }
         else if (body == BodyPosture.Stand)
         {
-            physics.SetMovementFactor(physics.groundMovementFactor);
+            physics.SetSpeedForGroundMovement();
         }
     }
 
@@ -198,7 +201,7 @@ public class MovementManager : MonoBehaviour, IObserver
 
     private void AdaptColliderStanding()
     {
-        collider.offset = defaultColliderOffset;
-        collider.size = defaultColliderSize;
+        _collider.offset = defaultColliderOffset;
+        _collider.size = defaultColliderSize;
     }
 }
