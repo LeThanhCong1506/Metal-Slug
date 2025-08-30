@@ -119,8 +119,6 @@ namespace Game.Scripts.Controllers
                 Debug.LogWarning("Map or startPoint not set in level prefab.");
             }
         }
-
-        // Fix for CS1003 and CS1525 errors in HandleKeyboardInput method
         private void HandleKeyboardInput()
         {
             bool jump = Input.GetButtonDown("Jump");
@@ -133,6 +131,19 @@ namespace Game.Scripts.Controllers
             _player.MovementManager.HorizontalMovement(horizontalKey < 0 ? Vector3.left : (horizontalKey > 0 ? Vector3.right : Vector3.zero));
 
             if (horizontalKey == 0) _player.MovementManager.StopMoving();
+
+            if(Input.GetKey(KeyCode.UpArrow))
+            {
+                Debug.Log("Up key pressed");
+                _player.MovementManager.LookUp();
+            }
+            else if (Input.GetKey(KeyCode.DownArrow))
+            {
+                Debug.Log("Down key pressed");
+                _player.MovementManager.DownMovement();
+            }
+            else
+                _player.MovementManager.DefaultBodyPosition();
 
             if (jump) _player.MovementManager.Jump();
 
