@@ -17,6 +17,8 @@ public class MovementManager : MonoBehaviour
     private Vector2 defaultColliderSize;
     private Vector2 defaultColliderOffset;
 
+    public LookDirection LookDirection => lookDirection;
+
     void Awake()
     {
         physics = GetComponent<PhysicManager>();
@@ -34,9 +36,9 @@ public class MovementManager : MonoBehaviour
     //    }
     //}
 
-    private void TurnAround(Vector3 dir)
+    private void TurnAround()
     {
-        physics.ChangeDirection(dir);
+        //physics.ChangeDirection(dir);
         if (lookDirection != LookDirection.Up && lookDirection != LookDirection.Down)
         {
             lookDirection = LookDirection.Straight;
@@ -54,7 +56,7 @@ public class MovementManager : MonoBehaviour
     null;
 
         if (turnDir.HasValue)
-            TurnAround(turnDir.Value);
+            TurnAround();
 
         if (physics.InTheAir)
         {
