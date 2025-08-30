@@ -260,14 +260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70fef498925ac8648994d2dc1f65732e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
-  jumpForce: 10
-  groundCheck: {fileID: 3183309528146775478}
-  groundCheckRadius: 0.2
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 8
-  rb: {fileID: 6396399546911187156}
 --- !u!114 &7101601962384540083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -294,7 +286,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5ce0e8f6d286824d8ff2bdea4f4c920, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  crouchSpeedFactor: 0.25
 --- !u!114 &5048905306853914930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -308,16 +299,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   groundCheck: {fileID: 3183309528146775478}
-  groundDrag: 0
-  airDrag: 0.998
   jumpForce: 7
   maxFallSpeed: -15
-  groundCheckRadius: 0.5
+  groundCheckRadius: 0.3
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
   moveSpeed: 3
-  debugging: 1
 --- !u!114 &8937961928298025238
 MonoBehaviour:
   m_ObjectHideFlags: 0

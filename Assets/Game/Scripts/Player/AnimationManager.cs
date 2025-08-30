@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class AnimationManager : MonoBehaviour
@@ -9,6 +10,7 @@ public class AnimationManager : MonoBehaviour
     private static readonly int IsJumpHigh = Animator.StringToHash("jump_high_speed");
     private static readonly int IsJumpLow = Animator.StringToHash("jump_low_speed");
     private static readonly int IsHitGround = Animator.StringToHash("hit_ground");
+    private static readonly int LookUpAnim = Animator.StringToHash("look_up_trigger");
 
     [SerializeField] private Animator topAnimator;
     [SerializeField] private Animator bottomAnimator;
@@ -28,9 +30,15 @@ public class AnimationManager : MonoBehaviour
     {
         switch (eventType)
         {
-            case SlugEvents.HitGround: StartHitGround(); break;
-            case SlugEvents.Fall: StartFalling(); break;
-            default: break;
+            case SlugEvents.HitGround: 
+                StartHitGround();
+                StartLookStraightAnimation();
+                break;
+            case SlugEvents.Fall: 
+                StartFalling(); 
+                break;
+            default: 
+                break;
         }
     }
 
@@ -85,5 +93,19 @@ public class AnimationManager : MonoBehaviour
         bottomAnimator.SetTrigger(IsJumpLow);
         topAnimator.SetTrigger(IsJump);
         topAnimator.SetBool(IsJumpLow, true);
+    }
+
+    public void StartLookUpAnimation()
+    {
+        if (!topAnimator.GetBool(LookUp))
+        {
+            if (!topAnimator.GetBool(IsJumpLow)
+                    && !topAnimator.GetBool(IsJumpHigh)
+                    && !topAnimator.GetBool(LookDown))
+            {
+                topAnimator.SetTrigger(LookUpAnim);
+            }
+        }
+        topAnimator.SetBool(LookUp, true);
     }
 }

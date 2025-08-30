@@ -95,14 +95,15 @@ public class MovementManager : MonoBehaviour
         AdaptColliderStanding();
     }
 
-    //public void LookUp()
-    //{
-    //    lookDirection = LookDirection.Up;
-    //    animManager.StartLookUpAnim();
-    //}
+    public void LookUp()
+    {
+        lookDirection = LookDirection.Up;
+        animManager.StartLookUpAnimation();
+    }
 
     private void LookDown()
     {
+        Debug.Log("LookDown");
         lookDirection = LookDirection.Down;
         animManager.StartLookDownAnimation();
     }
@@ -116,17 +117,18 @@ public class MovementManager : MonoBehaviour
         AdaptColliderStanding();
     }
 
-    //public void DownMovement()
-    //{
-    //    if (physics.InTheAir)
-    //    {
-    //        LookDown();
-    //    }
-    //    else if (body == BodyPosture.Stand)
-    //    {
-    //        Crouch();
-    //    }
-    //}
+    public void DownMovement()
+    {
+        Debug.Log("Air check: " + physics.InTheAir);
+        if (physics.InTheAir)
+        {
+            LookDown();
+        }
+        //else if (body == BodyPosture.Stand)
+        //{
+        //    Crouch();
+        //}
+    }
 
     //private void Crouch()
     //{

@@ -19,7 +19,7 @@ public class PhysicManager : MonoBehaviour
     private bool inTheAir;
     private bool isGrounded;
 
-    public bool InTheAir => inTheAir;
+    public bool InTheAir => !isGrounded;
 
     void Awake()
     {
@@ -40,8 +40,7 @@ public class PhysicManager : MonoBehaviour
         }
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-        inTheAir = !isGrounded;
-
+        Debug.Log("isGrounded: " + isGrounded);
         if (isGrounded && !wasGrounded)
         {
             StopFalling();
