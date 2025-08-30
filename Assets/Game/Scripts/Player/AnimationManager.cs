@@ -11,6 +11,8 @@ public class AnimationManager : MonoBehaviour
     private static readonly int IsJumpLow = Animator.StringToHash("jump_low_speed");
     private static readonly int IsHitGround = Animator.StringToHash("hit_ground");
     private static readonly int LookUpAnim = Animator.StringToHash("look_up_trigger");
+    private static readonly int Fire = Animator.StringToHash("fire");
+    private static readonly int Knifeing = Animator.StringToHash("knifeing");
 
     [SerializeField] private Animator topAnimator;
     [SerializeField] private Animator bottomAnimator;
@@ -40,6 +42,25 @@ public class AnimationManager : MonoBehaviour
             default: 
                 break;
         }
+    }
+
+    public void StartShootingAnimation()
+    {
+        topAnimator.SetTrigger(Fire);
+    }
+
+    public void StartShootingDownAnimation()
+    {
+        topAnimator.SetTrigger(Fire);
+        topAnimator.SetBool(IsJumpLow, true);
+        topAnimator.SetBool(LookDown, true);
+        topAnimator.SetBool(Knifeing, true);
+    }
+
+    public void StartShootingUpAnimation()
+    {
+        topAnimator.SetBool(LookUp, true);
+        topAnimator.SetTrigger(Fire);
     }
 
     private void StartFalling()

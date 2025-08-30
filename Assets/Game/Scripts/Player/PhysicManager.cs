@@ -71,10 +71,15 @@ public class PhysicManager : MonoBehaviour
         float targetSpeed = inputX * moveSpeed;
         rb.linearVelocity = new Vector2(targetSpeed, rb.linearVelocity.y);
 
-        if (inputX != 0)
-        {
-            ChangeDirection(new Vector3(Mathf.Sign(inputX), 0, 0));
-        }
+        if (rb.linearVelocityX > 0)
+            transform.localScale = new Vector3(2.5f, 2.5f, 1);
+        else if (rb.linearVelocityX < 0)
+            transform.localScale = new Vector3(-2.5f, 2.5f, 1);
+
+        //if (inputX != 0)
+        //{
+        //    ChangeDirection(new Vector3(Mathf.Sign(inputX), 0, 0));
+        //}
     }
 
     public bool JumpLowVel()
@@ -130,9 +135,9 @@ public class PhysicManager : MonoBehaviour
         return rb.linearVelocity;
     }
 
-    public void ChangeDirection(Vector3 newDir)
-    {
-        if (transform.right != newDir)
-            transform.right = newDir;
-    }
+    //public void ChangeDirection(Vector3 newDir)
+    //{
+    //    if (transform.right != newDir)
+    //        transform.right = newDir;
+    //}
 }
