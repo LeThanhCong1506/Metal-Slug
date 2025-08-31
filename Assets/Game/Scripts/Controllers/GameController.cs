@@ -27,8 +27,8 @@ namespace Game.Scripts.Controllers
         private bool _isGamePaused;
         private int _userScore;
         private int _userHealth = 3;
-        private int _points = 3;
-        private float _remainingTime;
+        //private int _points = 3;
+        //private float _remainingTime;
         private bool _isGameEnd;
         private GameObject _currentLevel;
 
@@ -37,7 +37,7 @@ namespace Game.Scripts.Controllers
         private void Start()
         {
             _userHealth = 3;
-            _points = 0;
+            //_points = 0;
             RegisterEvents();
             InitGameView();
             if (testStat)
@@ -119,8 +119,6 @@ namespace Game.Scripts.Controllers
                 Debug.LogWarning("Map or startPoint not set in level prefab.");
             }
         }
-
-        // Fix for CS1003 and CS1525 errors in HandleKeyboardInput method
         private void HandleKeyboardInput()
         {
             bool jump = Input.GetButtonDown("Jump");
@@ -130,19 +128,30 @@ namespace Game.Scripts.Controllers
             int verticalKey = (int)Input.GetAxis("Vertical");
 
             // Corrected ternary operator syntax
-            _player.MovementManager.HorizontalMovement(
-                horizontalKey < 0 ? Vector3.left : Vector3.right
-            );
+            _player.MovementManager.HorizontalMovement(horizontalKey < 0 ? Vector3.left : (horizontalKey > 0 ? Vector3.right : Vector3.zero));
 
             if (horizontalKey == 0) _player.MovementManager.StopMoving();
-            
-            if (jump) _player.Jump();
+
+            if(Input.GetKey(KeyCode.UpArrow))
+            {
+                Debug.Log("Up key pressed");
+                _player.MovementManager.LookUp();
+            }
+            else if (Input.GetKey(KeyCode.DownArrow))
+            {
+                Debug.Log("Down key pressed");
+                _player.MovementManager.DownMovement();
+            }
+            else
+                _player.MovementManager.DefaultBodyPosition();
+
+            if (jump) _player.MovementManager.Jump();
 
             if (fireKey) _player.AttackManager.Attack();
         }
 
-        private float _lastShootTime = -1f;
-        private const float ShootCooldown = 0.5f;
+        //private float _lastShootTime = -1f;
+        //private const float ShootCooldown = 0.5f;
 
 
         private void HandleDebugInput()
