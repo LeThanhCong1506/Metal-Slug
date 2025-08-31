@@ -20,7 +20,7 @@ public class BulletController : MonoBehaviour
     void Update()
     {
         if (!isActive) return;
-        BulletRb.linearVelocity = BulletDirection * BulletSpeed;
+        BulletRb.linearVelocity = BulletDirection.normalized * BulletSpeed;
     }
 
     void OnBecameInvisible()
@@ -30,6 +30,7 @@ public class BulletController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        //==> Example checking collision with enemy and boss <==//
         //if (collision.CompareTag("Enemy"))
         //{
         //    collision.GetComponent<EnemyHealthController>().DamageEnemy(damageAmount);

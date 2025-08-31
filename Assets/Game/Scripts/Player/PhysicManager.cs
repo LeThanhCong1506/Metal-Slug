@@ -52,7 +52,7 @@ public class PhysicManager : MonoBehaviour
     void StopFalling()
     {
         inTheAir = false;
-        PlayerEvents.Raise(SlugEvents.HitGround);
+        PlayerEvents.Raise(SlugGameEvents.HitGround);
     }
 
 #if UNITY_EDITOR
@@ -60,7 +60,6 @@ public class PhysicManager : MonoBehaviour
     {
         if (groundCheck == null) return;
 
-        // Set gizmo color based on _isGrounded state
         Gizmos.color = isGrounded ? Color.green : Color.red;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
@@ -75,11 +74,6 @@ public class PhysicManager : MonoBehaviour
             transform.localScale = new Vector3(2.5f, 2.5f, 1);
         else if (rb.linearVelocityX < 0)
             transform.localScale = new Vector3(-2.5f, 2.5f, 1);
-
-        //if (inputX != 0)
-        //{
-        //    ChangeDirection(new Vector3(Mathf.Sign(inputX), 0, 0));
-        //}
     }
 
     public bool JumpLowVel()
@@ -134,10 +128,4 @@ public class PhysicManager : MonoBehaviour
     {
         return rb.linearVelocity;
     }
-
-    //public void ChangeDirection(Vector3 newDir)
-    //{
-    //    if (transform.right != newDir)
-    //        transform.right = newDir;
-    //}
 }

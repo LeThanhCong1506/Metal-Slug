@@ -2,9 +2,9 @@
 
 public static class PlayerEvents
 {
-    public static event Action<SlugEvents> OnPlayerEvent;
+    public static event Action<SlugGameEvents> OnPlayerEvent;
 
-    public static void Raise(SlugEvents eventType)
+    public static void Raise(SlugGameEvents eventType)
     {
         OnPlayerEvent?.Invoke(eventType);
     }
