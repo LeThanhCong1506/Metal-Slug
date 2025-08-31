@@ -130,23 +130,23 @@ namespace Game.Scripts.Gameplay
         // this shold be in pick up system and detect controller
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.CompareTag("EndPoint"))
-            {
-                Destroy(other.gameObject);
-                GameController.Instance.ShowEndGame();
-            }
-            // pick up system
+            //if (other.CompareTag("EndPoint"))
+            //{
+            //    Destroy(other.gameObject);
+            //    GameController.Instance.ShowEndGame();
+            //}
+            //// pick up system
 
-            if (other.CompareTag("Coin"))
-            {
-                Destroy(other.gameObject);
-                GameController.Instance.EarnCoin();
-            }
-            if (other.CompareTag("Apple"))
-            {
-                Destroy(other.gameObject);
-                GameController.Instance.EarnApple();
-            }
+            //if (other.CompareTag("Coin"))
+            //{
+            //    Destroy(other.gameObject);
+            //    GameController.Instance.EarnCoin();
+            //}
+            //if (other.CompareTag("Apple"))
+            //{
+            //    Destroy(other.gameObject);
+            //    GameController.Instance.EarnApple();
+            //}
 
             //if (other.CompareTag("Trap") && !_isInvincible)
             //{
