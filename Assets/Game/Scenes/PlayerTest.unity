@@ -284,7 +284,7 @@ Transform:
   m_GameObject: {fileID: 396053365}
   serializedVersion: 2
   m_LocalRotation: {x: -0.011847693, y: -0.016289016, z: -0.00019302643, w: 0.9997971}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -8, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -377,7 +377,7 @@ Transform:
   m_GameObject: {fileID: 463823306}
   serializedVersion: 2
   m_LocalRotation: {x: -0.011847693, y: -0.016289014, z: -0.0001930264, w: 0.9997971}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -8, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -449,9 +449,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ec456f00aa62084080fcc90c5b2b045, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  patrolDistance: 3
-  detectRange: 5
   player: {fileID: 0}
+  detectRange: 2
+  attackRange: 1.5
 --- !u!114 &541536244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1229,7 +1229,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2069040567504855671, guid: daadcc91a75edb143949f07d5b4781cc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -8
       objectReference: {fileID: 0}
     - target: {fileID: 2069040567504855671, guid: daadcc91a75edb143949f07d5b4781cc, type: 3}
       propertyPath: m_LocalPosition.y

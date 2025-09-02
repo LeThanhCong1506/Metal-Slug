@@ -79,7 +79,7 @@ public class MovementManager : MonoBehaviour
         //    LookDown();
         //}
         body = BodyPosture.Stand;
-        Debug.Log(Mathf.Abs(physics.GetVelocity().x));
+        //Debug.Log(Mathf.Abs(physics.GetVelocity().x));
         if (Mathf.Abs(physics.GetVelocity().x) > 0)
         {
             if (physics.JumpHighVel())

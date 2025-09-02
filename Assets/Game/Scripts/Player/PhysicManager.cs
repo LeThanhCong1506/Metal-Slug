@@ -40,7 +40,7 @@ public class PhysicManager : MonoBehaviour
         }
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-        Debug.Log("isGrounded: " + isGrounded);
+        //Debug.Log("isGrounded: " + isGrounded);
         if (isGrounded && !wasGrounded)
         {
             StopFalling();
