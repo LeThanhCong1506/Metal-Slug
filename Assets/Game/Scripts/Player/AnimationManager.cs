@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class AnimationManager : MonoBehaviour
@@ -28,16 +27,13 @@ public class AnimationManager : MonoBehaviour
         PlayerEvents.OnPlayerEvent -= HandlePlayerEvent;
     }
 
-    void HandlePlayerEvent(SlugEvents eventType)
+    void HandlePlayerEvent(SlugGameEvents eventType)
     {
         switch (eventType)
         {
-            case SlugEvents.HitGround: 
+            case SlugGameEvents.HitGround: 
                 StartHitGround();
                 StartLookStraightAnimation();
-                break;
-            case SlugEvents.Fall: 
-                StartFalling(); 
                 break;
             default: 
                 break;
@@ -47,6 +43,7 @@ public class AnimationManager : MonoBehaviour
     public void StartShootingAnimation()
     {
         topAnimator.SetTrigger(Fire);
+        topAnimator.SetBool(Knifeing, false);
     }
 
     public void StartShootingDownAnimation()
@@ -63,15 +60,10 @@ public class AnimationManager : MonoBehaviour
         topAnimator.SetTrigger(Fire);
     }
 
-    private void StartFalling()
-    {
-        bottomAnimator.SetTrigger(IsJumpLow);
-        topAnimator.SetTrigger(IsJump);
-        topAnimator.SetBool(IsJumpLow, true);
-    }
-
     private void StartHitGround()
     {
+        topAnimator.ResetTrigger(IsJump);
+        topAnimator.SetBool(LookDown, false);
         topAnimator.SetBool(IsJumpLow, false);
         topAnimator.SetBool(IsJumpHigh, false);
         topAnimator.SetTrigger(IsHitGround);
