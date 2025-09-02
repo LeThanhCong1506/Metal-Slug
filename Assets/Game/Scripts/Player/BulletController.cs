@@ -1,3 +1,4 @@
+using HealthSystem;
 using UnityEngine;
 
 public class BulletController : MonoBehaviour
@@ -30,6 +31,12 @@ public class BulletController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        var obtacle = collision.gameObject.GetComponent<Health>();
+        if (obtacle != null)
+        {
+            Debug.Log("DoAttack");
+            obtacle.TakeDamage(new DamageInfo(50));
+        }
         //if (collision.CompareTag("Enemy"))
         //{
         //    collision.GetComponent<EnemyHealthController>().DamageEnemy(damageAmount);

@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8790043337616375257}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoot Point Up
   m_TagString: Untagged
   m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
@@ -40,7 +40,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1576286685763150152}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoot Point Straight
   m_TagString: Untagged
   m_Icon: {fileID: 7148428337604731935, guid: 0000000000000000d000000000000000, type: 0}
@@ -71,7 +71,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7302862142896406787}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoot Points
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -105,7 +105,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9005752171233310873}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 7749471526545227023}
   - component: {fileID: 7152827007829696104}
   - component: {fileID: 2120690754155407961}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -255,9 +255,9 @@ GameObject:
   - component: {fileID: 4107547750257264060}
   - component: {fileID: 5048905306853914930}
   - component: {fileID: 8937961928298025238}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -280,6 +280,7 @@ Transform:
   - {fileID: 8426176822061089410}
   - {fileID: 7302862142896406787}
   - {fileID: 2429702387412991847}
+  - {fileID: 2596544831087422500}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &6396399546911187156
@@ -430,7 +431,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2429702387412991847}
   - component: {fileID: 1906833832358487956}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PistonBullets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -479,7 +480,7 @@ GameObject:
   - component: {fileID: 5118644097099722778}
   - component: {fileID: 5363354541931221720}
   - component: {fileID: 4420623151896454575}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -614,7 +615,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3183309528146775478}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,7 +647,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2596544831087422500}
   - component: {fileID: 5163452228993731559}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Health
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -708,7 +709,7 @@ GameObject:
   - component: {fileID: 8426176822061089410}
   - component: {fileID: 2903302517746576853}
   - component: {fileID: 7490653736119270220}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: MeleeAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -742,6 +743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a15adc3f18e7724e88f9b51d359572e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  meleeRanged: 0.5
   animManager: {fileID: 7101601962384540083}
   attackDetect: {fileID: 7490653736119270220}
   enemyFilter:
@@ -804,7 +806,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5124452153585017258}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoot Point Down
   m_TagString: Untagged
   m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}

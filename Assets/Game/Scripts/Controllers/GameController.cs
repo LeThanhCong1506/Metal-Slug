@@ -148,6 +148,7 @@ namespace Game.Scripts.Controllers
             if (jump) _player.MovementManager.Jump();
 
             if (fireKey) _player.AttackManager.Attack();
+            if (grenadeKey) _player.AttackManager.Throw();
         }
 
         //private float _lastShootTime = -1f;
