@@ -5,7 +5,7 @@ public class EnemyIdleState : EnemyState
     private float idleTime;
     private float timer;
 
-    public EnemyIdleState(EnemyController controller) : base(controller)
+    public EnemyIdleState(EnemyBase controller) : base(controller)
     {
     }
     public override void OnEnter()

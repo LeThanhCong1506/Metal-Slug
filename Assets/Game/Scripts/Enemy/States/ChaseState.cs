@@ -2,7 +2,7 @@
 
 public class ChaseState : EnemyState
 {
-    public ChaseState(EnemyController controller) : base(controller)
+    public ChaseState(EnemyBase controller) : base(controller)
     {
     }
     public override void OnEnter()

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class DieState : EnemyState
 {
-    public DieState(EnemyController controller) : base(controller)
+    public DieState(EnemyBase controller) : base(controller)
     {
     }
     public override void OnEnter()

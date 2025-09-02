@@ -4,7 +4,7 @@ public class HitState : EnemyState
 {
     private float hitDuration = 0.3f;
     private float timer;
-    public HitState(EnemyController controller) : base(controller)
+    public HitState(EnemyBase controller) : base(controller)
     {
     }
     public override void OnEnter()

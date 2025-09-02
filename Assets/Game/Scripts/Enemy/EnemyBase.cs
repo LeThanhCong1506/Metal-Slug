@@ -1,5 +1,6 @@
 using Game.Scripts.Gameplay;
 using Game.Service;
+using System;
 using UnityEngine;
 
 [RequireComponent(typeof(MovementManager), typeof(AnimationManager), typeof(PhysicManager))]
@@ -61,5 +62,10 @@ public abstract class EnemyBase : MonoBehaviour
     protected virtual void Update()
     {
         fsm.Update();
+    }
+
+    internal void ResetHitFlag()
+    {
+        throw new NotImplementedException();
     }
 }

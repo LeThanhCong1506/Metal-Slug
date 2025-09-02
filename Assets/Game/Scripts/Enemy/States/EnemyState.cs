@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class EnemyState : BaseState
 {
-    protected readonly EnemyController controller;
-    public EnemyState(EnemyController controller)
+    protected readonly EnemyBase controller;
+    public EnemyState(EnemyBase controller)
     {
         this.controller = controller;
     }
