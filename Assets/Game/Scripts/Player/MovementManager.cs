@@ -163,34 +163,6 @@ public class MovementManager : MonoBehaviour
         return physics.GetVelocity() != Vector2.zero;
     }
 
-    //private void NotifyObservers(SlugEvents ev)
-    //{
-    //    foreach (IObserver obs in observers)
-    //    {
-    //        obs.Observe(ev);
-    //    }
-    //}
-
-    //private IEnumerator WaitAFrameAndTurnRight()
-    //{
-    //    yield return new WaitForEndOfFrame();
-    //    physics.ChangeDirection(Vector2.right);
-    //}
-
-    //private IEnumerator WaitAFrameAndTurnLeft()
-    //{
-    //    yield return new WaitForEndOfFrame();
-    //    physics.ChangeDirection(Vector2.left);
-    //}
-
-    //private void AdaptColliderCrouching()
-    //{
-    //    float newSizeY = defaultColliderSize.y / 2;
-    //    float diff = defaultColliderSize.y - newSizeY;
-    //    collider.offset = new Vector2(defaultColliderOffset.x, defaultColliderOffset.y - diff / 2);
-    //    collider.size = new Vector2(defaultColliderSize.x, newSizeY);
-    //}
-
     private void AdaptColliderStanding()
     {
         _collider.offset = defaultColliderOffset;

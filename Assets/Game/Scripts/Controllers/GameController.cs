@@ -62,10 +62,10 @@ namespace Game.Scripts.Controllers
             if (_isGameEnd) return;
 
             //HandleJoystickInput();
-            HandleKeyboardInput();
-#if UNITY_EDITOR
-            HandleDebugInput();
-#endif
+//            HandleKeyboardInput();
+//#if UNITY_EDITOR
+//            HandleDebugInput();
+//#endif
         }
 
         protected override void OnDestroy()
@@ -82,9 +82,6 @@ namespace Game.Scripts.Controllers
         {
             _gameView = UIManager.Instance.ViewManager.GetViewByName<GameView>(UIViewName.GameView);
             UIManager.Instance.ViewManager.ShowView(UIViewName.GameView);
-            // ADDITION HERE
-            //_gameView.SetHealth(_userHealth);
-            //_gameView.SetApple(_apple);
         }
 
 
@@ -119,49 +116,18 @@ namespace Game.Scripts.Controllers
                 Debug.LogWarning("Map or startPoint not set in level prefab.");
             }
         }
-        private void HandleKeyboardInput()
-        {
-            bool jump = Input.GetButtonDown("Jump");
-            bool fireKey = Input.GetButtonDown("Fire1");
-            bool grenadeKey = Input.GetButtonDown("Fire2");
-            int horizontalKey = (int)Input.GetAxisRaw("Horizontal");
-            int verticalKey = (int)Input.GetAxis("Vertical");
-
-            // Corrected ternary operator syntax
-            _player.MovementManager.HorizontalMovement(horizontalKey < 0 ? Vector3.left : (horizontalKey > 0 ? Vector3.right : Vector3.zero));
-
-            if (horizontalKey == 0) _player.MovementManager.StopMoving();
-
-            if(Input.GetKey(KeyCode.UpArrow))
-            {
-                Debug.Log("Up key pressed");
-                _player.MovementManager.LookUp();
-            }
-            else if (Input.GetKey(KeyCode.DownArrow))
-            {
-                Debug.Log("Down key pressed");
-                _player.MovementManager.DownMovement();
-            }
-            else
-                _player.MovementManager.DefaultBodyPosition();
-
-            if (jump) _player.MovementManager.Jump();
-
-            if (fireKey) _player.AttackManager.Attack();
-            if (grenadeKey) _player.AttackManager.Throw();
-        }
 
         //private float _lastShootTime = -1f;
         //private const float ShootCooldown = 0.5f;
 
 
-        private void HandleDebugInput()
-        {
-            if (Input.GetKeyDown(KeyCode.L))
-            {
-                ShowEndGame();
-            }
-        }
+        //private void HandleDebugInput()
+        //{
+        //    if (Input.GetKeyDown(KeyCode.L))
+        //    {
+        //        ShowEndGame();
+        //    }
+        //}
 
         #endregion
 
