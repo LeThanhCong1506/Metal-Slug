@@ -27,6 +27,10 @@ public class PlayerAttackManager : MonoBehaviour
     }
     public void Throw()
     {
+        // check inventory
+
+        
+        // if has grenade then throw
         playerExplosives.ThrowGrenade(animManager);
     }
     public void Attack()

@@ -69,7 +69,7 @@ namespace Assets.Game.Scripts.Controllers
 
         void ThrowGrenade()
         {
-            Debug.Log("Attack L");
+            player.AttackManager.Throw();
         }
     }
 }
