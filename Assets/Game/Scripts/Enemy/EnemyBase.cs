@@ -19,6 +19,7 @@ public abstract class EnemyBase : MonoBehaviour
     [SerializeField] protected float detectRange = 5f;
     [SerializeField] protected float attackRange = 1.5f;
     [SerializeField] protected int health = 3;
+    public bool IsHitted { get; private set; }
 
     public bool IsDead => health <= 0;
 
@@ -64,8 +65,8 @@ public abstract class EnemyBase : MonoBehaviour
         fsm.Update();
     }
 
-    internal void ResetHitFlag()
+    public void ResetHitFlag()
     {
-        throw new NotImplementedException();
+        IsHitted = false;
     }
 }

@@ -6,13 +6,7 @@ using UnityEngine;
 public class EnemyController : EnemyBase
 {
     [Header("Detection Settings")]
-    [SerializeField] public Transform player;
-
     StateMachine m_StateMachine;
-
-
-    public bool IsDie { get; private set; }
-    public bool IsHitted { get; private set; }
 
     void At(IState from, IState to, IPredicate condition)
     {
@@ -21,10 +15,6 @@ public class EnemyController : EnemyBase
     void Any(IState to, IPredicate condition)
     {
         m_StateMachine.AddAnyTransition(to, condition);
-    }
-    public void ResetHitFlag()
-    {
-        IsHitted = false;
     }
 
     protected override void InitFSM()
@@ -38,10 +28,10 @@ public class EnemyController : EnemyBase
         var chase = new ChaseState(this);
         var die = new DieState(this);
 
-        Any(die, new FuncPredicate(() => IsDie));
+        Any(die, new FuncPredicate(() => IsDead));
         Any(hitted, new FuncPredicate(() => IsHitted));
 
-        At(idle, patrol, new FuncPredicate(() => !InAttackRange())); // idle -> patrol sau 1 tick
+        At(idle, patrol, new FuncPredicate(() => !InAttackRange()));
         At(patrol, chase, new FuncPredicate(CanSeePlayer));
         At(chase, patrol, new FuncPredicate(() => !CanSeePlayer()));
         At(chase, idle, new FuncPredicate(() => InAttackRange()));
