@@ -1,4 +1,4 @@
-﻿using Game.Scripts.Gameplay;
+using Game.Scripts.Gameplay;
 using UnityEngine;
 
 namespace Assets.Game.Scripts.Controllers
@@ -69,7 +69,7 @@ namespace Assets.Game.Scripts.Controllers
 
         void ThrowGrenade()
         {
-            Debug.Log("Attack L");
+            player.AttackManager.Throw();
         }
     }
 }

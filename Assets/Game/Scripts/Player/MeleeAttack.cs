@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MeleeAttack : MonoBehaviour
 {
+    public float meleeRanged = 0.5f;
     [SerializeField]
     private AnimationManager animManager;
     [SerializeField]
@@ -21,7 +22,6 @@ public class MeleeAttack : MonoBehaviour
     {
         isAttacking = animManager.TopAnimator.GetBool(IsAttacking);
         if (isAttacking) return;
-        Debug.Log("AttackType1");
         animManager.TopAnimator.SetTrigger(Attack);
     }
     public void AttackType2()

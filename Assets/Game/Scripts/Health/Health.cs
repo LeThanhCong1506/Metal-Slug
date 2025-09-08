@@ -61,6 +61,20 @@ namespace HealthSystem
             currentHealth = Mathf.Clamp(newHealth, 0, maxHealth);
 
             // start i-frames
+            if (hasIFrames && info.amount > 0)
+            {
+                if (iFrameCoroutine != null) StopCoroutine(iFrameCoroutine);
+                iFrameCoroutine = StartCoroutine(HandleIFrames(iFrameDuration));
+            }
+
+
+            onHealthChanged?.Invoke(currentHealth, maxHealth);
+
+
+            if (IsDead)
+            {
+                HandleDeath(info);
+            }
         }
 
 
